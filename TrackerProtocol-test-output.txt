@@ -1,0 +1,4402 @@
+------- PARSE NEW PACKET -------
+$VAR1 = {
+          '_info' => {
+                       'packet' => '11CB029708D79E5C8D067A400048004900214A004C00039D1F701C71333539353231303030303038393588007D89038590019800',
+                       'trusted' => 1
+                     },
+          'imei' => {
+                      'unit' => 'NA',
+                      'number' => '35952100000895'
+                    },
+          'status_outputs' => {
+                                'unit' => 'NA',
+                                'output2' => 0,
+                                'output1' => 0
+                              },
+          'distance' => {
+                          'unit' => 'm',
+                          'distance' => 236831
+                        },
+          'satellites' => {
+                            'unit' => 'number of satellites',
+                            'satellites' => 0
+                          },
+          'quality_gsm_signal' => {
+                                    'unit' => 'NA',
+                                    'signal' => 28
+                                  },
+          'powersupply_voltage' => {
+                                     'voltage' => '4.3478',
+                                     'unit' => 'V'
+                                   },
+          'direction' => {
+                           'direction' => 0,
+                           'unit' => 'm'
+                         },
+          'gps_coord' => {
+                           'unit' => 'UNKNOWN',
+                           'longitude' => '4.84468',
+                           'latitude' => '51.3078',
+                           'gps' => 0
+                         },
+          'speed' => {
+                       'unit' => 'km/u',
+                       'speed' => 0
+                     },
+          'status_inputs_1' => {
+                                 'unit' => 'NA',
+                                 'input1' => 0,
+                                 'input3' => 0,
+                                 'input2' => 0,
+                                 'input4' => 0
+                               },
+          'battery_voltage' => {
+                                 'voltage' => '3.8628',
+                                 'unit' => 'V'
+                               },
+          'datetime_start' => {
+                                'hour' => '16',
+                                'unit' => 'UTC',
+                                'minute' => '14',
+                                'second' => '30',
+                                'month' => '04',
+                                'day' => '25',
+                                'year' => '2008'
+                              },
+          'altitude' => {
+                          'unit' => 'm',
+                          'height' => 33
+                        }
+        };
+
+------- PARSE NEW PACKET -------
+$VAR1 = {
+          '_info' => {
+                       'packet' => '19CB02A908D79E5C8D067A400048004900214A004C00039D1F70117133353935323130303030303839358801A38903A190019800',
+                       'trusted' => 1
+                     },
+          'imei' => {
+                      'unit' => 'NA',
+                      'number' => '35952100000895'
+                    },
+          'status_outputs' => {
+                                'unit' => 'NA',
+                                'output2' => 0,
+                                'output1' => 0
+                              },
+          'distance' => {
+                          'unit' => 'm',
+                          'distance' => 236831
+                        },
+          'satellites' => {
+                            'unit' => 'number of satellites',
+                            'satellites' => 0
+                          },
+          'quality_gsm_signal' => {
+                                    'unit' => 'NA',
+                                    'signal' => 17
+                                  },
+          'datetime' => {
+                          'hour' => '16',
+                          'unit' => 'UTC',
+                          'minute' => '17',
+                          'second' => '30',
+                          'month' => '04',
+                          'day' => '25',
+                          'year' => '2008'
+                        },
+          'direction' => {
+                           'direction' => 0,
+                           'unit' => 'm'
+                         },
+          'powersupply_voltage' => {
+                                     'voltage' => '14.5739',
+                                     'unit' => 'V'
+                                   },
+          'gps_coord' => {
+                           'unit' => 'UNKNOWN',
+                           'longitude' => '4.84468',
+                           'latitude' => '51.3078',
+                           'gps' => 0
+                         },
+          'speed' => {
+                       'unit' => 'km/u',
+                       'speed' => 0
+                     },
+          'status_inputs_1' => {
+                                 'unit' => 'NA',
+                                 'input1' => 0,
+                                 'input3' => 0,
+                                 'input2' => 0,
+                                 'input4' => 0
+                               },
+          'battery_voltage' => {
+                                 'voltage' => '3.9829',
+                                 'unit' => 'V'
+                               },
+          'altitude' => {
+                          'unit' => 'm',
+                          'height' => 33
+                        }
+        };
+
+------- PARSE NEW PACKET -------
+$VAR1 = {
+          '_info' => {
+                       'packet' => '19CB02BB08D79E5C8D067A400048004900214A004C00039D1F70097133353935323130303030303839358801A68903A890019800',
+                       'trusted' => 1
+                     },
+          'imei' => {
+                      'unit' => 'NA',
+                      'number' => '35952100000895'
+                    },
+          'status_outputs' => {
+                                'unit' => 'NA',
+                                'output2' => 0,
+                                'output1' => 0
+                              },
+          'distance' => {
+                          'unit' => 'm',
+                          'distance' => 236831
+                        },
+          'satellites' => {
+                            'unit' => 'number of satellites',
+                            'satellites' => 0
+                          },
+          'quality_gsm_signal' => {
+                                    'unit' => 'NA',
+                                    'signal' => 9
+                                  },
+          'datetime' => {
+                          'hour' => '16',
+                          'unit' => 'UTC',
+                          'minute' => '20',
+                          'second' => '30',
+                          'month' => '04',
+                          'day' => '25',
+                          'year' => '2008'
+                        },
+          'direction' => {
+                           'direction' => 0,
+                           'unit' => 'm'
+                         },
+          'powersupply_voltage' => {
+                                     'voltage' => '14.6783',
+                                     'unit' => 'V'
+                                   },
+          'gps_coord' => {
+                           'unit' => 'UNKNOWN',
+                           'longitude' => '4.84468',
+                           'latitude' => '51.3078',
+                           'gps' => 0
+                         },
+          'speed' => {
+                       'unit' => 'km/u',
+                       'speed' => 0
+                     },
+          'status_inputs_1' => {
+                                 'unit' => 'NA',
+                                 'input1' => 0,
+                                 'input3' => 0,
+                                 'input2' => 0,
+                                 'input4' => 0
+                               },
+          'battery_voltage' => {
+                                 'voltage' => '4.0129',
+                                 'unit' => 'V'
+                               },
+          'altitude' => {
+                          'unit' => 'm',
+                          'height' => 33
+                        }
+        };
+
+------- PARSE NEW PACKET -------
+$VAR1 = {
+          '_info' => {
+                       'packet' => '19CB02CD08D79E5C8D067A400048004900214A004C00039D1F70167133353935323130303030303839358801A58903AB90019800',
+                       'trusted' => 1
+                     },
+          'imei' => {
+                      'unit' => 'NA',
+                      'number' => '35952100000895'
+                    },
+          'status_outputs' => {
+                                'unit' => 'NA',
+                                'output2' => 0,
+                                'output1' => 0
+                              },
+          'distance' => {
+                          'unit' => 'm',
+                          'distance' => 236831
+                        },
+          'satellites' => {
+                            'unit' => 'number of satellites',
+                            'satellites' => 0
+                          },
+          'quality_gsm_signal' => {
+                                    'unit' => 'NA',
+                                    'signal' => 22
+                                  },
+          'datetime' => {
+                          'hour' => '16',
+                          'unit' => 'UTC',
+                          'minute' => '23',
+                          'second' => '30',
+                          'month' => '04',
+                          'day' => '25',
+                          'year' => '2008'
+                        },
+          'direction' => {
+                           'direction' => 0,
+                           'unit' => 'm'
+                         },
+          'powersupply_voltage' => {
+                                     'voltage' => '14.6435',
+                                     'unit' => 'V'
+                                   },
+          'gps_coord' => {
+                           'unit' => 'UNKNOWN',
+                           'longitude' => '4.84468',
+                           'latitude' => '51.3078',
+                           'gps' => 0
+                         },
+          'speed' => {
+                       'unit' => 'km/u',
+                       'speed' => 0
+                     },
+          'status_inputs_1' => {
+                                 'unit' => 'NA',
+                                 'input1' => 0,
+                                 'input3' => 0,
+                                 'input2' => 0,
+                                 'input4' => 0
+                               },
+          'battery_voltage' => {
+                                 'voltage' => '4.0257',
+                                 'unit' => 'V'
+                               },
+          'altitude' => {
+                          'unit' => 'm',
+                          'height' => 33
+                        }
+        };
+
+------- PARSE NEW PACKET -------
+$VAR1 = {
+          '_info' => {
+                       'packet' => '19CB02DF0AD782C68D11EB404C480649FFFF4A474C0003C26270187133353935323130303030303839358801A58903AD90019800',
+                       'trusted' => 1
+                     },
+          'imei' => {
+                      'unit' => 'NA',
+                      'number' => '35952100000895'
+                    },
+          'status_outputs' => {
+                                'unit' => 'NA',
+                                'output2' => 0,
+                                'output1' => 0
+                              },
+          'distance' => {
+                          'unit' => 'm',
+                          'distance' => 246370
+                        },
+          'satellites' => {
+                            'unit' => 'number of satellites',
+                            'satellites' => 6
+                          },
+          'quality_gsm_signal' => {
+                                    'unit' => 'NA',
+                                    'signal' => 24
+                                  },
+          'datetime' => {
+                          'hour' => '16',
+                          'unit' => 'UTC',
+                          'minute' => '26',
+                          'second' => '30',
+                          'month' => '04',
+                          'day' => '25',
+                          'year' => '2008'
+                        },
+          'direction' => {
+                           'direction' => 142,
+                           'unit' => 'm'
+                         },
+          'powersupply_voltage' => {
+                                     'voltage' => '14.6435',
+                                     'unit' => 'V'
+                                   },
+          'gps_coord' => {
+                           'unit' => 'UNKNOWN',
+                           'longitude' => '4.90326',
+                           'latitude' => '51.23718',
+                           'gps' => 1
+                         },
+          'speed' => {
+                       'unit' => 'km/u',
+                       'speed' => 76
+                     },
+          'status_inputs_1' => {
+                                 'unit' => 'NA',
+                                 'input1' => 0,
+                                 'input3' => 0,
+                                 'input2' => 0,
+                                 'input4' => 0
+                               },
+          'battery_voltage' => {
+                                 'voltage' => '4.0343',
+                                 'unit' => 'V'
+                               },
+          'altitude' => {
+                          'unit' => 'm',
+                          'height' => 0
+                        }
+        };
+
+------- PARSE NEW PACKET -------
+$VAR1 = {
+          '_info' => {
+                       'packet' => '19CB02F10AD77CBA8D138F403248064900094A634C0003CB09700D7133353935323130303030303839358801A48903AF90019800',
+                       'trusted' => 1
+                     },
+          'imei' => {
+                      'unit' => 'NA',
+                      'number' => '35952100000895'
+                    },
+          'status_outputs' => {
+                                'unit' => 'NA',
+                                'output2' => 0,
+                                'output1' => 0
+                              },
+          'distance' => {
+                          'unit' => 'm',
+                          'distance' => 248585
+                        },
+          'satellites' => {
+                            'unit' => 'number of satellites',
+                            'satellites' => 6
+                          },
+          'quality_gsm_signal' => {
+                                    'unit' => 'NA',
+                                    'signal' => 13
+                                  },
+          'datetime' => {
+                          'hour' => '16',
+                          'unit' => 'UTC',
+                          'minute' => '29',
+                          'second' => '30',
+                          'month' => '04',
+                          'day' => '25',
+                          'year' => '2008'
+                        },
+          'direction' => {
+                           'direction' => 198,
+                           'unit' => 'm'
+                         },
+          'powersupply_voltage' => {
+                                     'voltage' => '14.6087',
+                                     'unit' => 'V'
+                                   },
+          'gps_coord' => {
+                           'unit' => 'UNKNOWN',
+                           'longitude' => '4.91166',
+                           'latitude' => '51.2217',
+                           'gps' => 1
+                         },
+          'speed' => {
+                       'unit' => 'km/u',
+                       'speed' => 50
+                     },
+          'status_inputs_1' => {
+                                 'unit' => 'NA',
+                                 'input1' => 0,
+                                 'input3' => 0,
+                                 'input2' => 0,
+                                 'input4' => 0
+                               },
+          'battery_voltage' => {
+                                 'voltage' => '4.0429',
+                                 'unit' => 'V'
+                               },
+          'altitude' => {
+                          'unit' => 'm',
+                          'height' => 9
+                        }
+        };
+
+------- PARSE NEW PACKET -------
+$VAR1 = {
+          '_info' => {
+                       'packet' => '19CB03030AD772688D11F0404A480649FFFF4A574C0003D742701A7133353935323130303030303839358801A48903B090019800',
+                       'trusted' => 1
+                     },
+          'imei' => {
+                      'unit' => 'NA',
+                      'number' => '35952100000895'
+                    },
+          'status_outputs' => {
+                                'unit' => 'NA',
+                                'output2' => 0,
+                                'output1' => 0
+                              },
+          'distance' => {
+                          'unit' => 'm',
+                          'distance' => 251714
+                        },
+          'satellites' => {
+                            'unit' => 'number of satellites',
+                            'satellites' => 6
+                          },
+          'quality_gsm_signal' => {
+                                    'unit' => 'NA',
+                                    'signal' => 26
+                                  },
+          'datetime' => {
+                          'hour' => '16',
+                          'unit' => 'UTC',
+                          'minute' => '32',
+                          'second' => '30',
+                          'month' => '04',
+                          'day' => '25',
+                          'year' => '2008'
+                        },
+          'direction' => {
+                           'direction' => 174,
+                           'unit' => 'm'
+                         },
+          'powersupply_voltage' => {
+                                     'voltage' => '14.6087',
+                                     'unit' => 'V'
+                                   },
+          'gps_coord' => {
+                           'unit' => 'UNKNOWN',
+                           'longitude' => '4.90336',
+                           'latitude' => '51.19528',
+                           'gps' => 1
+                         },
+          'speed' => {
+                       'unit' => 'km/u',
+                       'speed' => 74
+                     },
+          'status_inputs_1' => {
+                                 'unit' => 'NA',
+                                 'input1' => 0,
+                                 'input3' => 0,
+                                 'input2' => 0,
+                                 'input4' => 0
+                               },
+          'battery_voltage' => {
+                                 'voltage' => '4.0472',
+                                 'unit' => 'V'
+                               },
+          'altitude' => {
+                          'unit' => 'm',
+                          'height' => 0
+                        }
+        };
+
+------- PARSE NEW PACKET -------
+$VAR1 = {
+          '_info' => {
+                       'packet' => '19CB03150AD769488D11F2403848064900014A554C0003E191700E7133353935323130303030303839358801A48903B290019800',
+                       'trusted' => 1
+                     },
+          'imei' => {
+                      'unit' => 'NA',
+                      'number' => '35952100000895'
+                    },
+          'status_outputs' => {
+                                'unit' => 'NA',
+                                'output2' => 0,
+                                'output1' => 0
+                              },
+          'distance' => {
+                          'unit' => 'm',
+                          'distance' => 254353
+                        },
+          'satellites' => {
+                            'unit' => 'number of satellites',
+                            'satellites' => 6
+                          },
+          'quality_gsm_signal' => {
+                                    'unit' => 'NA',
+                                    'signal' => 14
+                                  },
+          'datetime' => {
+                          'hour' => '16',
+                          'unit' => 'UTC',
+                          'minute' => '35',
+                          'second' => '30',
+                          'month' => '04',
+                          'day' => '25',
+                          'year' => '2008'
+                        },
+          'direction' => {
+                           'direction' => 170,
+                           'unit' => 'm'
+                         },
+          'powersupply_voltage' => {
+                                     'voltage' => '14.6087',
+                                     'unit' => 'V'
+                                   },
+          'gps_coord' => {
+                           'unit' => 'UNKNOWN',
+                           'longitude' => '4.9034',
+                           'latitude' => '51.17192',
+                           'gps' => 1
+                         },
+          'speed' => {
+                       'unit' => 'km/u',
+                       'speed' => 56
+                     },
+          'status_inputs_1' => {
+                                 'unit' => 'NA',
+                                 'input1' => 0,
+                                 'input3' => 0,
+                                 'input2' => 0,
+                                 'input4' => 0
+                               },
+          'battery_voltage' => {
+                                 'voltage' => '4.0557',
+                                 'unit' => 'V'
+                               },
+          'altitude' => {
+                          'unit' => 'm',
+                          'height' => 1
+                        }
+        };
+
+------- PARSE NEW PACKET -------
+$VAR1 = {
+          '_info' => {
+                       'packet' => '19CB03270AD762C48D10DD403148064900104A544C0003E968700E7133353935323130303030303839358801A38903B390019800',
+                       'trusted' => 1
+                     },
+          'imei' => {
+                      'unit' => 'NA',
+                      'number' => '35952100000895'
+                    },
+          'status_outputs' => {
+                                'unit' => 'NA',
+                                'output2' => 0,
+                                'output1' => 0
+                              },
+          'distance' => {
+                          'unit' => 'm',
+                          'distance' => 256360
+                        },
+          'satellites' => {
+                            'unit' => 'number of satellites',
+                            'satellites' => 6
+                          },
+          'quality_gsm_signal' => {
+                                    'unit' => 'NA',
+                                    'signal' => 14
+                                  },
+          'datetime' => {
+                          'hour' => '16',
+                          'unit' => 'UTC',
+                          'minute' => '38',
+                          'second' => '30',
+                          'month' => '04',
+                          'day' => '25',
+                          'year' => '2008'
+                        },
+          'direction' => {
+                           'direction' => 168,
+                           'unit' => 'm'
+                         },
+          'powersupply_voltage' => {
+                                     'voltage' => '14.5739',
+                                     'unit' => 'V'
+                                   },
+          'gps_coord' => {
+                           'unit' => 'UNKNOWN',
+                           'longitude' => '4.89786',
+                           'latitude' => '51.15524',
+                           'gps' => 1
+                         },
+          'speed' => {
+                       'unit' => 'km/u',
+                       'speed' => 49
+                     },
+          'status_inputs_1' => {
+                                 'unit' => 'NA',
+                                 'input1' => 0,
+                                 'input3' => 0,
+                                 'input2' => 0,
+                                 'input4' => 0
+                               },
+          'battery_voltage' => {
+                                 'voltage' => '4.0600',
+                                 'unit' => 'V'
+                               },
+          'altitude' => {
+                          'unit' => 'm',
+                          'height' => 16
+                        }
+        };
+
+------- PARSE NEW PACKET -------
+$VAR1 = {
+          '_info' => {
+                       'packet' => '19CB03390AD759C08D122D404348064900114A554C0003F3C770127133353935323130303030303839358801A48903B490019800',
+                       'trusted' => 1
+                     },
+          'imei' => {
+                      'unit' => 'NA',
+                      'number' => '35952100000895'
+                    },
+          'status_outputs' => {
+                                'unit' => 'NA',
+                                'output2' => 0,
+                                'output1' => 0
+                              },
+          'distance' => {
+                          'unit' => 'm',
+                          'distance' => 259015
+                        },
+          'satellites' => {
+                            'unit' => 'number of satellites',
+                            'satellites' => 6
+                          },
+          'quality_gsm_signal' => {
+                                    'unit' => 'NA',
+                                    'signal' => 18
+                                  },
+          'datetime' => {
+                          'hour' => '16',
+                          'unit' => 'UTC',
+                          'minute' => '41',
+                          'second' => '30',
+                          'month' => '04',
+                          'day' => '25',
+                          'year' => '2008'
+                        },
+          'direction' => {
+                           'direction' => 170,
+                           'unit' => 'm'
+                         },
+          'powersupply_voltage' => {
+                                     'voltage' => '14.6087',
+                                     'unit' => 'V'
+                                   },
+          'gps_coord' => {
+                           'unit' => 'UNKNOWN',
+                           'longitude' => '4.90458',
+                           'latitude' => '51.13216',
+                           'gps' => 1
+                         },
+          'speed' => {
+                       'unit' => 'km/u',
+                       'speed' => 67
+                     },
+          'status_inputs_1' => {
+                                 'unit' => 'NA',
+                                 'input1' => 0,
+                                 'input3' => 0,
+                                 'input2' => 0,
+                                 'input4' => 0
+                               },
+          'battery_voltage' => {
+                                 'voltage' => '4.0643',
+                                 'unit' => 'V'
+                               },
+          'altitude' => {
+                          'unit' => 'm',
+                          'height' => 17
+                        }
+        };
+
+------- PARSE NEW PACKET -------
+$VAR1 = {
+          '_info' => {
+                       'packet' => '19CB034B0AD74F6E8D1452402A48054900024A584C0003FFB8700B7133353935323130303030303839358801A48903B690019800',
+                       'trusted' => 1
+                     },
+          'imei' => {
+                      'unit' => 'NA',
+                      'number' => '35952100000895'
+                    },
+          'status_outputs' => {
+                                'unit' => 'NA',
+                                'output2' => 0,
+                                'output1' => 0
+                              },
+          'distance' => {
+                          'unit' => 'm',
+                          'distance' => 262072
+                        },
+          'satellites' => {
+                            'unit' => 'number of satellites',
+                            'satellites' => 5
+                          },
+          'quality_gsm_signal' => {
+                                    'unit' => 'NA',
+                                    'signal' => 11
+                                  },
+          'datetime' => {
+                          'hour' => '16',
+                          'unit' => 'UTC',
+                          'minute' => '44',
+                          'second' => '30',
+                          'month' => '04',
+                          'day' => '25',
+                          'year' => '2008'
+                        },
+          'direction' => {
+                           'direction' => 176,
+                           'unit' => 'm'
+                         },
+          'powersupply_voltage' => {
+                                     'voltage' => '14.6087',
+                                     'unit' => 'V'
+                                   },
+          'gps_coord' => {
+                           'unit' => 'UNKNOWN',
+                           'longitude' => '4.91556',
+                           'latitude' => '51.10574',
+                           'gps' => 1
+                         },
+          'speed' => {
+                       'unit' => 'km/u',
+                       'speed' => 42
+                     },
+          'status_inputs_1' => {
+                                 'unit' => 'NA',
+                                 'input1' => 0,
+                                 'input3' => 0,
+                                 'input2' => 0,
+                                 'input4' => 0
+                               },
+          'battery_voltage' => {
+                                 'voltage' => '4.0729',
+                                 'unit' => 'V'
+                               },
+          'altitude' => {
+                          'unit' => 'm',
+                          'height' => 2
+                        }
+        };
+
+------- PARSE NEW PACKET -------
+$VAR1 = {
+          '_info' => {
+                       'packet' => '19CB035D0AD7494C8D1410402B48064900004A514C0004087A70147133353935323130303030303839358801A38903B790019800',
+                       'trusted' => 1
+                     },
+          'imei' => {
+                      'unit' => 'NA',
+                      'number' => '35952100000895'
+                    },
+          'status_outputs' => {
+                                'unit' => 'NA',
+                                'output2' => 0,
+                                'output1' => 0
+                              },
+          'distance' => {
+                          'unit' => 'm',
+                          'distance' => 264314
+                        },
+          'satellites' => {
+                            'unit' => 'number of satellites',
+                            'satellites' => 6
+                          },
+          'quality_gsm_signal' => {
+                                    'unit' => 'NA',
+                                    'signal' => 20
+                                  },
+          'datetime' => {
+                          'hour' => '16',
+                          'unit' => 'UTC',
+                          'minute' => '47',
+                          'second' => '30',
+                          'month' => '04',
+                          'day' => '25',
+                          'year' => '2008'
+                        },
+          'direction' => {
+                           'direction' => 162,
+                           'unit' => 'm'
+                         },
+          'powersupply_voltage' => {
+                                     'voltage' => '14.5739',
+                                     'unit' => 'V'
+                                   },
+          'gps_coord' => {
+                           'unit' => 'UNKNOWN',
+                           'longitude' => '4.91424',
+                           'latitude' => '51.09004',
+                           'gps' => 1
+                         },
+          'speed' => {
+                       'unit' => 'km/u',
+                       'speed' => 43
+                     },
+          'status_inputs_1' => {
+                                 'unit' => 'NA',
+                                 'input1' => 0,
+                                 'input3' => 0,
+                                 'input2' => 0,
+                                 'input4' => 0
+                               },
+          'battery_voltage' => {
+                                 'voltage' => '4.0772',
+                                 'unit' => 'V'
+                               },
+          'altitude' => {
+                          'unit' => 'm',
+                          'height' => 0
+                        }
+        };
+
+------- PARSE NEW PACKET -------
+$VAR1 = {
+          '_info' => {
+                       'packet' => '19CB036F0AD742048D10D34032480549000F4A724C0004135B701E7133353935323130303030303839358801A38903B990019800',
+                       'trusted' => 1
+                     },
+          'imei' => {
+                      'unit' => 'NA',
+                      'number' => '35952100000895'
+                    },
+          'status_outputs' => {
+                                'unit' => 'NA',
+                                'output2' => 0,
+                                'output1' => 0
+                              },
+          'distance' => {
+                          'unit' => 'm',
+                          'distance' => 267099
+                        },
+          'satellites' => {
+                            'unit' => 'number of satellites',
+                            'satellites' => 5
+                          },
+          'quality_gsm_signal' => {
+                                    'unit' => 'NA',
+                                    'signal' => 30
+                                  },
+          'datetime' => {
+                          'hour' => '16',
+                          'unit' => 'UTC',
+                          'minute' => '50',
+                          'second' => '30',
+                          'month' => '04',
+                          'day' => '25',
+                          'year' => '2008'
+                        },
+          'direction' => {
+                           'direction' => 228,
+                           'unit' => 'm'
+                         },
+          'powersupply_voltage' => {
+                                     'voltage' => '14.5739',
+                                     'unit' => 'V'
+                                   },
+          'gps_coord' => {
+                           'unit' => 'UNKNOWN',
+                           'longitude' => '4.89766',
+                           'latitude' => '51.0714',
+                           'gps' => 1
+                         },
+          'speed' => {
+                       'unit' => 'km/u',
+                       'speed' => 50
+                     },
+          'status_inputs_1' => {
+                                 'unit' => 'NA',
+                                 'input1' => 0,
+                                 'input3' => 0,
+                                 'input2' => 0,
+                                 'input4' => 0
+                               },
+          'battery_voltage' => {
+                                 'voltage' => '4.0857',
+                                 'unit' => 'V'
+                               },
+          'altitude' => {
+                          'unit' => 'm',
+                          'height' => 15
+                        }
+        };
+
+------- PARSE NEW PACKET -------
+$VAR1 = {
+          '_info' => {
+                       'packet' => '19CB03810AD73A988D0D81402548064900124A744C00041CD870137133353935323130303030303839358801A48903BA90019800',
+                       'trusted' => 1
+                     },
+          'imei' => {
+                      'unit' => 'NA',
+                      'number' => '35952100000895'
+                    },
+          'status_outputs' => {
+                                'unit' => 'NA',
+                                'output2' => 0,
+                                'output1' => 0
+                              },
+          'distance' => {
+                          'unit' => 'm',
+                          'distance' => 269528
+                        },
+          'satellites' => {
+                            'unit' => 'number of satellites',
+                            'satellites' => 6
+                          },
+          'quality_gsm_signal' => {
+                                    'unit' => 'NA',
+                                    'signal' => 19
+                                  },
+          'datetime' => {
+                          'hour' => '16',
+                          'unit' => 'UTC',
+                          'minute' => '53',
+                          'second' => '30',
+                          'month' => '04',
+                          'day' => '25',
+                          'year' => '2008'
+                        },
+          'direction' => {
+                           'direction' => 232,
+                           'unit' => 'm'
+                         },
+          'powersupply_voltage' => {
+                                     'voltage' => '14.6087',
+                                     'unit' => 'V'
+                                   },
+          'gps_coord' => {
+                           'unit' => 'UNKNOWN',
+                           'longitude' => '4.88066',
+                           'latitude' => '51.0524',
+                           'gps' => 1
+                         },
+          'speed' => {
+                       'unit' => 'km/u',
+                       'speed' => 37
+                     },
+          'status_inputs_1' => {
+                                 'unit' => 'NA',
+                                 'input1' => 0,
+                                 'input3' => 0,
+                                 'input2' => 0,
+                                 'input4' => 0
+                               },
+          'battery_voltage' => {
+                                 'voltage' => '4.0900',
+                                 'unit' => 'V'
+                               },
+          'altitude' => {
+                          'unit' => 'm',
+                          'height' => 18
+                        }
+        };
+
+------- PARSE NEW PACKET -------
+$VAR1 = {
+          '_info' => {
+                       'packet' => '19CB03930AD731B48D07074049480649000F4A664C00042A4F700C7133353935323130303030303839358801A48903BC90019800',
+                       'trusted' => 1
+                     },
+          'imei' => {
+                      'unit' => 'NA',
+                      'number' => '35952100000895'
+                    },
+          'status_outputs' => {
+                                'unit' => 'NA',
+                                'output2' => 0,
+                                'output1' => 0
+                              },
+          'distance' => {
+                          'unit' => 'm',
+                          'distance' => 272975
+                        },
+          'satellites' => {
+                            'unit' => 'number of satellites',
+                            'satellites' => 6
+                          },
+          'quality_gsm_signal' => {
+                                    'unit' => 'NA',
+                                    'signal' => 12
+                                  },
+          'datetime' => {
+                          'hour' => '16',
+                          'unit' => 'UTC',
+                          'minute' => '56',
+                          'second' => '30',
+                          'month' => '04',
+                          'day' => '25',
+                          'year' => '2008'
+                        },
+          'direction' => {
+                           'direction' => 204,
+                           'unit' => 'm'
+                         },
+          'powersupply_voltage' => {
+                                     'voltage' => '14.6087',
+                                     'unit' => 'V'
+                                   },
+          'gps_coord' => {
+                           'unit' => 'UNKNOWN',
+                           'longitude' => '4.8475',
+                           'latitude' => '51.02964',
+                           'gps' => 1
+                         },
+          'speed' => {
+                       'unit' => 'km/u',
+                       'speed' => 73
+                     },
+          'status_inputs_1' => {
+                                 'unit' => 'NA',
+                                 'input1' => 0,
+                                 'input3' => 0,
+                                 'input2' => 0,
+                                 'input4' => 0
+                               },
+          'battery_voltage' => {
+                                 'voltage' => '4.0986',
+                                 'unit' => 'V'
+                               },
+          'altitude' => {
+                          'unit' => 'm',
+                          'height' => 15
+                        }
+        };
+
+------- PARSE NEW PACKET -------
+$VAR1 = {
+          '_info' => {
+                       'packet' => '19CB03A50AD72BD48D05AF400848054900044A624C000430F8701571333539353231303030303038393588019D8903BD90019800',
+                       'trusted' => 1
+                     },
+          'imei' => {
+                      'unit' => 'NA',
+                      'number' => '35952100000895'
+                    },
+          'status_outputs' => {
+                                'unit' => 'NA',
+                                'output2' => 0,
+                                'output1' => 0
+                              },
+          'distance' => {
+                          'unit' => 'm',
+                          'distance' => 274680
+                        },
+          'satellites' => {
+                            'unit' => 'number of satellites',
+                            'satellites' => 5
+                          },
+          'quality_gsm_signal' => {
+                                    'unit' => 'NA',
+                                    'signal' => 21
+                                  },
+          'datetime' => {
+                          'hour' => '16',
+                          'unit' => 'UTC',
+                          'minute' => '59',
+                          'second' => '30',
+                          'month' => '04',
+                          'day' => '25',
+                          'year' => '2008'
+                        },
+          'direction' => {
+                           'direction' => 196,
+                           'unit' => 'm'
+                         },
+          'powersupply_voltage' => {
+                                     'voltage' => '14.3652',
+                                     'unit' => 'V'
+                                   },
+          'gps_coord' => {
+                           'unit' => 'UNKNOWN',
+                           'longitude' => '4.84062',
+                           'latitude' => '51.0146',
+                           'gps' => 1
+                         },
+          'speed' => {
+                       'unit' => 'km/u',
+                       'speed' => 8
+                     },
+          'status_inputs_1' => {
+                                 'unit' => 'NA',
+                                 'input1' => 0,
+                                 'input3' => 0,
+                                 'input2' => 0,
+                                 'input4' => 0
+                               },
+          'battery_voltage' => {
+                                 'voltage' => '4.1029',
+                                 'unit' => 'V'
+                               },
+          'altitude' => {
+                          'unit' => 'm',
+                          'height' => 4
+                        }
+        };
+
+------- PARSE NEW PACKET -------
+$VAR1 = {
+          '_info' => {
+                       'packet' => '19CB03B70AD729128D0539400248034900244A394C00043441700E71333539353231303030303038393588018D8903BE90019800',
+                       'trusted' => 1
+                     },
+          'imei' => {
+                      'unit' => 'NA',
+                      'number' => '35952100000895'
+                    },
+          'status_outputs' => {
+                                'unit' => 'NA',
+                                'output2' => 0,
+                                'output1' => 0
+                              },
+          'distance' => {
+                          'unit' => 'm',
+                          'distance' => 275521
+                        },
+          'satellites' => {
+                            'unit' => 'number of satellites',
+                            'satellites' => 3
+                          },
+          'quality_gsm_signal' => {
+                                    'unit' => 'NA',
+                                    'signal' => 14
+                                  },
+          'datetime' => {
+                          'hour' => '17',
+                          'unit' => 'UTC',
+                          'minute' => '02',
+                          'second' => '30',
+                          'month' => '04',
+                          'day' => '25',
+                          'year' => '2008'
+                        },
+          'direction' => {
+                           'direction' => 114,
+                           'unit' => 'm'
+                         },
+          'powersupply_voltage' => {
+                                     'voltage' => '13.8087',
+                                     'unit' => 'V'
+                                   },
+          'gps_coord' => {
+                           'unit' => 'UNKNOWN',
+                           'longitude' => '4.83826',
+                           'latitude' => '51.00754',
+                           'gps' => 1
+                         },
+          'speed' => {
+                       'unit' => 'km/u',
+                       'speed' => 2
+                     },
+          'status_inputs_1' => {
+                                 'unit' => 'NA',
+                                 'input1' => 0,
+                                 'input3' => 0,
+                                 'input2' => 0,
+                                 'input4' => 0
+                               },
+          'battery_voltage' => {
+                                 'voltage' => '4.1072',
+                                 'unit' => 'V'
+                               },
+          'altitude' => {
+                          'unit' => 'm',
+                          'height' => 36
+                        }
+        };
+
+------- PARSE NEW PACKET -------
+$VAR1 = {
+          '_info' => {
+                       'packet' => '19CB03CB0AD728FA8D05294002480549FFFF4A564C0004347D700A7133353935323130303030303839358800008903A390019800',
+                       'trusted' => 1
+                     },
+          'imei' => {
+                      'unit' => 'NA',
+                      'number' => '35952100000895'
+                    },
+          'status_outputs' => {
+                                'unit' => 'NA',
+                                'output2' => 0,
+                                'output1' => 0
+                              },
+          'distance' => {
+                          'unit' => 'm',
+                          'distance' => 275581
+                        },
+          'satellites' => {
+                            'unit' => 'number of satellites',
+                            'satellites' => 5
+                          },
+          'quality_gsm_signal' => {
+                                    'unit' => 'NA',
+                                    'signal' => 10
+                                  },
+          'datetime' => {
+                          'hour' => '17',
+                          'unit' => 'UTC',
+                          'minute' => '05',
+                          'second' => '50',
+                          'month' => '04',
+                          'day' => '25',
+                          'year' => '2008'
+                        },
+          'direction' => {
+                           'direction' => 172,
+                           'unit' => 'm'
+                         },
+          'powersupply_voltage' => {
+                                     'voltage' => '0.0000',
+                                     'unit' => 'V'
+                                   },
+          'gps_coord' => {
+                           'unit' => 'UNKNOWN',
+                           'longitude' => '4.83794',
+                           'latitude' => '51.0073',
+                           'gps' => 1
+                         },
+          'speed' => {
+                       'unit' => 'km/u',
+                       'speed' => 2
+                     },
+          'status_inputs_1' => {
+                                 'unit' => 'NA',
+                                 'input1' => 0,
+                                 'input3' => 0,
+                                 'input2' => 0,
+                                 'input4' => 0
+                               },
+          'battery_voltage' => {
+                                 'voltage' => '3.9914',
+                                 'unit' => 'V'
+                               },
+          'altitude' => {
+                          'unit' => 'm',
+                          'height' => 0
+                        }
+        };
+
+------- PARSE NEW PACKET -------
+$VAR1 = {
+          '_info' => {
+                       'packet' => '19CB03D500D729028D05304000480449FFF74A004C00043489700A71333539353231303030303038393588000089039E90009800',
+                       'trusted' => 1
+                     },
+          'imei' => {
+                      'unit' => 'NA',
+                      'number' => '35952100000895'
+                    },
+          'status_outputs' => {
+                                'unit' => 'NA',
+                                'output2' => 0,
+                                'output1' => 0
+                              },
+          'distance' => {
+                          'unit' => 'm',
+                          'distance' => 275593
+                        },
+          'satellites' => {
+                            'unit' => 'number of satellites',
+                            'satellites' => 4
+                          },
+          'gps_coord_stop' => {
+                                'unit' => 'UNKNOWN',
+                                'longitude' => '4.83808',
+                                'latitude' => '51.00738',
+                                'gps' => 0
+                              },
+          'quality_gsm_signal' => {
+                                    'unit' => 'NA',
+                                    'signal' => 10
+                                  },
+          'datetime' => {
+                          'hour' => '17',
+                          'unit' => 'UTC',
+                          'minute' => '07',
+                          'second' => '30',
+                          'month' => '04',
+                          'day' => '25',
+                          'year' => '2008'
+                        },
+          'direction' => {
+                           'direction' => 0,
+                           'unit' => 'm'
+                         },
+          'powersupply_voltage' => {
+                                     'voltage' => '0.0000',
+                                     'unit' => 'V'
+                                   },
+          'speed' => {
+                       'unit' => 'km/u',
+                       'speed' => 0
+                     },
+          'status_inputs_1' => {
+                                 'unit' => 'NA',
+                                 'input1' => 0,
+                                 'input3' => 0,
+                                 'input2' => 0,
+                                 'input4' => 0
+                               },
+          'battery_voltage' => {
+                                 'voltage' => '3.9700',
+                                 'unit' => 'V'
+                               },
+          'altitude' => {
+                          'unit' => 'm',
+                          'height' => -8
+                        }
+        };
+
+------- PARSE NEW PACKET -------
+$VAR1 = {
+          '_info' => {
+                       'packet' => '11CB029708D79E5C8D067A400048004900214A004C00039D1F701C71333539353231303030303038393588007D89038590019800',
+                       'trusted' => 1
+                     },
+          'imei' => {
+                      'unit' => 'NA',
+                      'number' => '35952100000895'
+                    },
+          'status_outputs' => {
+                                'unit' => 'NA',
+                                'output2' => 0,
+                                'output1' => 0
+                              },
+          'distance' => {
+                          'unit' => 'm',
+                          'distance' => 236831
+                        },
+          'satellites' => {
+                            'unit' => 'number of satellites',
+                            'satellites' => 0
+                          },
+          'quality_gsm_signal' => {
+                                    'unit' => 'NA',
+                                    'signal' => 28
+                                  },
+          'powersupply_voltage' => {
+                                     'voltage' => '4.3478',
+                                     'unit' => 'V'
+                                   },
+          'direction' => {
+                           'direction' => 0,
+                           'unit' => 'm'
+                         },
+          'gps_coord' => {
+                           'unit' => 'UNKNOWN',
+                           'longitude' => '4.84468',
+                           'latitude' => '51.3078',
+                           'gps' => 0
+                         },
+          'speed' => {
+                       'unit' => 'km/u',
+                       'speed' => 0
+                     },
+          'status_inputs_1' => {
+                                 'unit' => 'NA',
+                                 'input1' => 0,
+                                 'input3' => 0,
+                                 'input2' => 0,
+                                 'input4' => 0
+                               },
+          'battery_voltage' => {
+                                 'voltage' => '3.8628',
+                                 'unit' => 'V'
+                               },
+          'datetime_start' => {
+                                'hour' => '16',
+                                'unit' => 'UTC',
+                                'minute' => '14',
+                                'second' => '30',
+                                'month' => '04',
+                                'day' => '25',
+                                'year' => '2008'
+                              },
+          'altitude' => {
+                          'unit' => 'm',
+                          'height' => 33
+                        }
+        };
+
+------- PARSE NEW PACKET -------
+$VAR1 = {
+          '_info' => {
+                       'packet' => '19CB02A908D79E5C8D067A400048004900214A004C00039D1F70117133353935323130303030303839358801A38903A190019800',
+                       'trusted' => 1
+                     },
+          'imei' => {
+                      'unit' => 'NA',
+                      'number' => '35952100000895'
+                    },
+          'status_outputs' => {
+                                'unit' => 'NA',
+                                'output2' => 0,
+                                'output1' => 0
+                              },
+          'distance' => {
+                          'unit' => 'm',
+                          'distance' => 236831
+                        },
+          'satellites' => {
+                            'unit' => 'number of satellites',
+                            'satellites' => 0
+                          },
+          'quality_gsm_signal' => {
+                                    'unit' => 'NA',
+                                    'signal' => 17
+                                  },
+          'datetime' => {
+                          'hour' => '16',
+                          'unit' => 'UTC',
+                          'minute' => '17',
+                          'second' => '30',
+                          'month' => '04',
+                          'day' => '25',
+                          'year' => '2008'
+                        },
+          'direction' => {
+                           'direction' => 0,
+                           'unit' => 'm'
+                         },
+          'powersupply_voltage' => {
+                                     'voltage' => '14.5739',
+                                     'unit' => 'V'
+                                   },
+          'gps_coord' => {
+                           'unit' => 'UNKNOWN',
+                           'longitude' => '4.84468',
+                           'latitude' => '51.3078',
+                           'gps' => 0
+                         },
+          'speed' => {
+                       'unit' => 'km/u',
+                       'speed' => 0
+                     },
+          'status_inputs_1' => {
+                                 'unit' => 'NA',
+                                 'input1' => 0,
+                                 'input3' => 0,
+                                 'input2' => 0,
+                                 'input4' => 0
+                               },
+          'battery_voltage' => {
+                                 'voltage' => '3.9829',
+                                 'unit' => 'V'
+                               },
+          'altitude' => {
+                          'unit' => 'm',
+                          'height' => 33
+                        }
+        };
+
+------- PARSE NEW PACKET -------
+$VAR1 = {
+          '_info' => {
+                       'packet' => '19CB02BB08D79E5C8D067A400048004900214A004C00039D1F70097133353935323130303030303839358801A68903A890019800',
+                       'trusted' => 1
+                     },
+          'imei' => {
+                      'unit' => 'NA',
+                      'number' => '35952100000895'
+                    },
+          'status_outputs' => {
+                                'unit' => 'NA',
+                                'output2' => 0,
+                                'output1' => 0
+                              },
+          'distance' => {
+                          'unit' => 'm',
+                          'distance' => 236831
+                        },
+          'satellites' => {
+                            'unit' => 'number of satellites',
+                            'satellites' => 0
+                          },
+          'quality_gsm_signal' => {
+                                    'unit' => 'NA',
+                                    'signal' => 9
+                                  },
+          'datetime' => {
+                          'hour' => '16',
+                          'unit' => 'UTC',
+                          'minute' => '20',
+                          'second' => '30',
+                          'month' => '04',
+                          'day' => '25',
+                          'year' => '2008'
+                        },
+          'direction' => {
+                           'direction' => 0,
+                           'unit' => 'm'
+                         },
+          'powersupply_voltage' => {
+                                     'voltage' => '14.6783',
+                                     'unit' => 'V'
+                                   },
+          'gps_coord' => {
+                           'unit' => 'UNKNOWN',
+                           'longitude' => '4.84468',
+                           'latitude' => '51.3078',
+                           'gps' => 0
+                         },
+          'speed' => {
+                       'unit' => 'km/u',
+                       'speed' => 0
+                     },
+          'status_inputs_1' => {
+                                 'unit' => 'NA',
+                                 'input1' => 0,
+                                 'input3' => 0,
+                                 'input2' => 0,
+                                 'input4' => 0
+                               },
+          'battery_voltage' => {
+                                 'voltage' => '4.0129',
+                                 'unit' => 'V'
+                               },
+          'altitude' => {
+                          'unit' => 'm',
+                          'height' => 33
+                        }
+        };
+
+------- PARSE NEW PACKET -------
+$VAR1 = {
+          '_info' => {
+                       'packet' => '19CB02CD08D79E5C8D067A400048004900214A004C00039D1F70167133353935323130303030303839358801A58903AB90019800',
+                       'trusted' => 1
+                     },
+          'imei' => {
+                      'unit' => 'NA',
+                      'number' => '35952100000895'
+                    },
+          'status_outputs' => {
+                                'unit' => 'NA',
+                                'output2' => 0,
+                                'output1' => 0
+                              },
+          'distance' => {
+                          'unit' => 'm',
+                          'distance' => 236831
+                        },
+          'satellites' => {
+                            'unit' => 'number of satellites',
+                            'satellites' => 0
+                          },
+          'quality_gsm_signal' => {
+                                    'unit' => 'NA',
+                                    'signal' => 22
+                                  },
+          'datetime' => {
+                          'hour' => '16',
+                          'unit' => 'UTC',
+                          'minute' => '23',
+                          'second' => '30',
+                          'month' => '04',
+                          'day' => '25',
+                          'year' => '2008'
+                        },
+          'direction' => {
+                           'direction' => 0,
+                           'unit' => 'm'
+                         },
+          'powersupply_voltage' => {
+                                     'voltage' => '14.6435',
+                                     'unit' => 'V'
+                                   },
+          'gps_coord' => {
+                           'unit' => 'UNKNOWN',
+                           'longitude' => '4.84468',
+                           'latitude' => '51.3078',
+                           'gps' => 0
+                         },
+          'speed' => {
+                       'unit' => 'km/u',
+                       'speed' => 0
+                     },
+          'status_inputs_1' => {
+                                 'unit' => 'NA',
+                                 'input1' => 0,
+                                 'input3' => 0,
+                                 'input2' => 0,
+                                 'input4' => 0
+                               },
+          'battery_voltage' => {
+                                 'voltage' => '4.0257',
+                                 'unit' => 'V'
+                               },
+          'altitude' => {
+                          'unit' => 'm',
+                          'height' => 33
+                        }
+        };
+
+------- PARSE NEW PACKET -------
+$VAR1 = {
+          '_info' => {
+                       'packet' => '19CB02DF0AD782C68D11EB404C480649FFFF4A474C0003C26270187133353935323130303030303839358801A58903AD90019800',
+                       'trusted' => 1
+                     },
+          'imei' => {
+                      'unit' => 'NA',
+                      'number' => '35952100000895'
+                    },
+          'status_outputs' => {
+                                'unit' => 'NA',
+                                'output2' => 0,
+                                'output1' => 0
+                              },
+          'distance' => {
+                          'unit' => 'm',
+                          'distance' => 246370
+                        },
+          'satellites' => {
+                            'unit' => 'number of satellites',
+                            'satellites' => 6
+                          },
+          'quality_gsm_signal' => {
+                                    'unit' => 'NA',
+                                    'signal' => 24
+                                  },
+          'datetime' => {
+                          'hour' => '16',
+                          'unit' => 'UTC',
+                          'minute' => '26',
+                          'second' => '30',
+                          'month' => '04',
+                          'day' => '25',
+                          'year' => '2008'
+                        },
+          'direction' => {
+                           'direction' => 142,
+                           'unit' => 'm'
+                         },
+          'powersupply_voltage' => {
+                                     'voltage' => '14.6435',
+                                     'unit' => 'V'
+                                   },
+          'gps_coord' => {
+                           'unit' => 'UNKNOWN',
+                           'longitude' => '4.90326',
+                           'latitude' => '51.23718',
+                           'gps' => 1
+                         },
+          'speed' => {
+                       'unit' => 'km/u',
+                       'speed' => 76
+                     },
+          'status_inputs_1' => {
+                                 'unit' => 'NA',
+                                 'input1' => 0,
+                                 'input3' => 0,
+                                 'input2' => 0,
+                                 'input4' => 0
+                               },
+          'battery_voltage' => {
+                                 'voltage' => '4.0343',
+                                 'unit' => 'V'
+                               },
+          'altitude' => {
+                          'unit' => 'm',
+                          'height' => 0
+                        }
+        };
+
+------- PARSE NEW PACKET -------
+$VAR1 = {
+          '_info' => {
+                       'packet' => '19CB02F10AD77CBA8D138F403248064900094A634C0003CB09700D7133353935323130303030303839358801A48903AF90019800',
+                       'trusted' => 1
+                     },
+          'imei' => {
+                      'unit' => 'NA',
+                      'number' => '35952100000895'
+                    },
+          'status_outputs' => {
+                                'unit' => 'NA',
+                                'output2' => 0,
+                                'output1' => 0
+                              },
+          'distance' => {
+                          'unit' => 'm',
+                          'distance' => 248585
+                        },
+          'satellites' => {
+                            'unit' => 'number of satellites',
+                            'satellites' => 6
+                          },
+          'quality_gsm_signal' => {
+                                    'unit' => 'NA',
+                                    'signal' => 13
+                                  },
+          'datetime' => {
+                          'hour' => '16',
+                          'unit' => 'UTC',
+                          'minute' => '29',
+                          'second' => '30',
+                          'month' => '04',
+                          'day' => '25',
+                          'year' => '2008'
+                        },
+          'direction' => {
+                           'direction' => 198,
+                           'unit' => 'm'
+                         },
+          'powersupply_voltage' => {
+                                     'voltage' => '14.6087',
+                                     'unit' => 'V'
+                                   },
+          'gps_coord' => {
+                           'unit' => 'UNKNOWN',
+                           'longitude' => '4.91166',
+                           'latitude' => '51.2217',
+                           'gps' => 1
+                         },
+          'speed' => {
+                       'unit' => 'km/u',
+                       'speed' => 50
+                     },
+          'status_inputs_1' => {
+                                 'unit' => 'NA',
+                                 'input1' => 0,
+                                 'input3' => 0,
+                                 'input2' => 0,
+                                 'input4' => 0
+                               },
+          'battery_voltage' => {
+                                 'voltage' => '4.0429',
+                                 'unit' => 'V'
+                               },
+          'altitude' => {
+                          'unit' => 'm',
+                          'height' => 9
+                        }
+        };
+
+------- PARSE NEW PACKET -------
+$VAR1 = {
+          '_info' => {
+                       'packet' => '19CB03030AD772688D11F0404A480649FFFF4A574C0003D742701A7133353935323130303030303839358801A48903B090019800',
+                       'trusted' => 1
+                     },
+          'imei' => {
+                      'unit' => 'NA',
+                      'number' => '35952100000895'
+                    },
+          'status_outputs' => {
+                                'unit' => 'NA',
+                                'output2' => 0,
+                                'output1' => 0
+                              },
+          'distance' => {
+                          'unit' => 'm',
+                          'distance' => 251714
+                        },
+          'satellites' => {
+                            'unit' => 'number of satellites',
+                            'satellites' => 6
+                          },
+          'quality_gsm_signal' => {
+                                    'unit' => 'NA',
+                                    'signal' => 26
+                                  },
+          'datetime' => {
+                          'hour' => '16',
+                          'unit' => 'UTC',
+                          'minute' => '32',
+                          'second' => '30',
+                          'month' => '04',
+                          'day' => '25',
+                          'year' => '2008'
+                        },
+          'direction' => {
+                           'direction' => 174,
+                           'unit' => 'm'
+                         },
+          'powersupply_voltage' => {
+                                     'voltage' => '14.6087',
+                                     'unit' => 'V'
+                                   },
+          'gps_coord' => {
+                           'unit' => 'UNKNOWN',
+                           'longitude' => '4.90336',
+                           'latitude' => '51.19528',
+                           'gps' => 1
+                         },
+          'speed' => {
+                       'unit' => 'km/u',
+                       'speed' => 74
+                     },
+          'status_inputs_1' => {
+                                 'unit' => 'NA',
+                                 'input1' => 0,
+                                 'input3' => 0,
+                                 'input2' => 0,
+                                 'input4' => 0
+                               },
+          'battery_voltage' => {
+                                 'voltage' => '4.0472',
+                                 'unit' => 'V'
+                               },
+          'altitude' => {
+                          'unit' => 'm',
+                          'height' => 0
+                        }
+        };
+
+------- PARSE NEW PACKET -------
+$VAR1 = {
+          '_info' => {
+                       'packet' => '19CB03150AD769488D11F2403848064900014A554C0003E191700E7133353935323130303030303839358801A48903B290019800',
+                       'trusted' => 1
+                     },
+          'imei' => {
+                      'unit' => 'NA',
+                      'number' => '35952100000895'
+                    },
+          'status_outputs' => {
+                                'unit' => 'NA',
+                                'output2' => 0,
+                                'output1' => 0
+                              },
+          'distance' => {
+                          'unit' => 'm',
+                          'distance' => 254353
+                        },
+          'satellites' => {
+                            'unit' => 'number of satellites',
+                            'satellites' => 6
+                          },
+          'quality_gsm_signal' => {
+                                    'unit' => 'NA',
+                                    'signal' => 14
+                                  },
+          'datetime' => {
+                          'hour' => '16',
+                          'unit' => 'UTC',
+                          'minute' => '35',
+                          'second' => '30',
+                          'month' => '04',
+                          'day' => '25',
+                          'year' => '2008'
+                        },
+          'direction' => {
+                           'direction' => 170,
+                           'unit' => 'm'
+                         },
+          'powersupply_voltage' => {
+                                     'voltage' => '14.6087',
+                                     'unit' => 'V'
+                                   },
+          'gps_coord' => {
+                           'unit' => 'UNKNOWN',
+                           'longitude' => '4.9034',
+                           'latitude' => '51.17192',
+                           'gps' => 1
+                         },
+          'speed' => {
+                       'unit' => 'km/u',
+                       'speed' => 56
+                     },
+          'status_inputs_1' => {
+                                 'unit' => 'NA',
+                                 'input1' => 0,
+                                 'input3' => 0,
+                                 'input2' => 0,
+                                 'input4' => 0
+                               },
+          'battery_voltage' => {
+                                 'voltage' => '4.0557',
+                                 'unit' => 'V'
+                               },
+          'altitude' => {
+                          'unit' => 'm',
+                          'height' => 1
+                        }
+        };
+
+------- PARSE NEW PACKET -------
+$VAR1 = {
+          '_info' => {
+                       'packet' => '19CB03270AD762C48D10DD403148064900104A544C0003E968700E7133353935323130303030303839358801A38903B390019800',
+                       'trusted' => 1
+                     },
+          'imei' => {
+                      'unit' => 'NA',
+                      'number' => '35952100000895'
+                    },
+          'status_outputs' => {
+                                'unit' => 'NA',
+                                'output2' => 0,
+                                'output1' => 0
+                              },
+          'distance' => {
+                          'unit' => 'm',
+                          'distance' => 256360
+                        },
+          'satellites' => {
+                            'unit' => 'number of satellites',
+                            'satellites' => 6
+                          },
+          'quality_gsm_signal' => {
+                                    'unit' => 'NA',
+                                    'signal' => 14
+                                  },
+          'datetime' => {
+                          'hour' => '16',
+                          'unit' => 'UTC',
+                          'minute' => '38',
+                          'second' => '30',
+                          'month' => '04',
+                          'day' => '25',
+                          'year' => '2008'
+                        },
+          'direction' => {
+                           'direction' => 168,
+                           'unit' => 'm'
+                         },
+          'powersupply_voltage' => {
+                                     'voltage' => '14.5739',
+                                     'unit' => 'V'
+                                   },
+          'gps_coord' => {
+                           'unit' => 'UNKNOWN',
+                           'longitude' => '4.89786',
+                           'latitude' => '51.15524',
+                           'gps' => 1
+                         },
+          'speed' => {
+                       'unit' => 'km/u',
+                       'speed' => 49
+                     },
+          'status_inputs_1' => {
+                                 'unit' => 'NA',
+                                 'input1' => 0,
+                                 'input3' => 0,
+                                 'input2' => 0,
+                                 'input4' => 0
+                               },
+          'battery_voltage' => {
+                                 'voltage' => '4.0600',
+                                 'unit' => 'V'
+                               },
+          'altitude' => {
+                          'unit' => 'm',
+                          'height' => 16
+                        }
+        };
+
+------- PARSE NEW PACKET -------
+$VAR1 = {
+          '_info' => {
+                       'packet' => '19CB03390AD759C08D122D404348064900114A554C0003F3C770127133353935323130303030303839358801A48903B490019800',
+                       'trusted' => 1
+                     },
+          'imei' => {
+                      'unit' => 'NA',
+                      'number' => '35952100000895'
+                    },
+          'status_outputs' => {
+                                'unit' => 'NA',
+                                'output2' => 0,
+                                'output1' => 0
+                              },
+          'distance' => {
+                          'unit' => 'm',
+                          'distance' => 259015
+                        },
+          'satellites' => {
+                            'unit' => 'number of satellites',
+                            'satellites' => 6
+                          },
+          'quality_gsm_signal' => {
+                                    'unit' => 'NA',
+                                    'signal' => 18
+                                  },
+          'datetime' => {
+                          'hour' => '16',
+                          'unit' => 'UTC',
+                          'minute' => '41',
+                          'second' => '30',
+                          'month' => '04',
+                          'day' => '25',
+                          'year' => '2008'
+                        },
+          'direction' => {
+                           'direction' => 170,
+                           'unit' => 'm'
+                         },
+          'powersupply_voltage' => {
+                                     'voltage' => '14.6087',
+                                     'unit' => 'V'
+                                   },
+          'gps_coord' => {
+                           'unit' => 'UNKNOWN',
+                           'longitude' => '4.90458',
+                           'latitude' => '51.13216',
+                           'gps' => 1
+                         },
+          'speed' => {
+                       'unit' => 'km/u',
+                       'speed' => 67
+                     },
+          'status_inputs_1' => {
+                                 'unit' => 'NA',
+                                 'input1' => 0,
+                                 'input3' => 0,
+                                 'input2' => 0,
+                                 'input4' => 0
+                               },
+          'battery_voltage' => {
+                                 'voltage' => '4.0643',
+                                 'unit' => 'V'
+                               },
+          'altitude' => {
+                          'unit' => 'm',
+                          'height' => 17
+                        }
+        };
+
+------- PARSE NEW PACKET -------
+$VAR1 = {
+          '_info' => {
+                       'packet' => '19CB034B0AD74F6E8D1452402A48054900024A584C0003FFB8700B7133353935323130303030303839358801A48903B690019800',
+                       'trusted' => 1
+                     },
+          'imei' => {
+                      'unit' => 'NA',
+                      'number' => '35952100000895'
+                    },
+          'status_outputs' => {
+                                'unit' => 'NA',
+                                'output2' => 0,
+                                'output1' => 0
+                              },
+          'distance' => {
+                          'unit' => 'm',
+                          'distance' => 262072
+                        },
+          'satellites' => {
+                            'unit' => 'number of satellites',
+                            'satellites' => 5
+                          },
+          'quality_gsm_signal' => {
+                                    'unit' => 'NA',
+                                    'signal' => 11
+                                  },
+          'datetime' => {
+                          'hour' => '16',
+                          'unit' => 'UTC',
+                          'minute' => '44',
+                          'second' => '30',
+                          'month' => '04',
+                          'day' => '25',
+                          'year' => '2008'
+                        },
+          'direction' => {
+                           'direction' => 176,
+                           'unit' => 'm'
+                         },
+          'powersupply_voltage' => {
+                                     'voltage' => '14.6087',
+                                     'unit' => 'V'
+                                   },
+          'gps_coord' => {
+                           'unit' => 'UNKNOWN',
+                           'longitude' => '4.91556',
+                           'latitude' => '51.10574',
+                           'gps' => 1
+                         },
+          'speed' => {
+                       'unit' => 'km/u',
+                       'speed' => 42
+                     },
+          'status_inputs_1' => {
+                                 'unit' => 'NA',
+                                 'input1' => 0,
+                                 'input3' => 0,
+                                 'input2' => 0,
+                                 'input4' => 0
+                               },
+          'battery_voltage' => {
+                                 'voltage' => '4.0729',
+                                 'unit' => 'V'
+                               },
+          'altitude' => {
+                          'unit' => 'm',
+                          'height' => 2
+                        }
+        };
+
+------- PARSE NEW PACKET -------
+$VAR1 = {
+          '_info' => {
+                       'packet' => '19CB035D0AD7494C8D1410402B48064900004A514C0004087A70147133353935323130303030303839358801A38903B790019800',
+                       'trusted' => 1
+                     },
+          'imei' => {
+                      'unit' => 'NA',
+                      'number' => '35952100000895'
+                    },
+          'status_outputs' => {
+                                'unit' => 'NA',
+                                'output2' => 0,
+                                'output1' => 0
+                              },
+          'distance' => {
+                          'unit' => 'm',
+                          'distance' => 264314
+                        },
+          'satellites' => {
+                            'unit' => 'number of satellites',
+                            'satellites' => 6
+                          },
+          'quality_gsm_signal' => {
+                                    'unit' => 'NA',
+                                    'signal' => 20
+                                  },
+          'datetime' => {
+                          'hour' => '16',
+                          'unit' => 'UTC',
+                          'minute' => '47',
+                          'second' => '30',
+                          'month' => '04',
+                          'day' => '25',
+                          'year' => '2008'
+                        },
+          'direction' => {
+                           'direction' => 162,
+                           'unit' => 'm'
+                         },
+          'powersupply_voltage' => {
+                                     'voltage' => '14.5739',
+                                     'unit' => 'V'
+                                   },
+          'gps_coord' => {
+                           'unit' => 'UNKNOWN',
+                           'longitude' => '4.91424',
+                           'latitude' => '51.09004',
+                           'gps' => 1
+                         },
+          'speed' => {
+                       'unit' => 'km/u',
+                       'speed' => 43
+                     },
+          'status_inputs_1' => {
+                                 'unit' => 'NA',
+                                 'input1' => 0,
+                                 'input3' => 0,
+                                 'input2' => 0,
+                                 'input4' => 0
+                               },
+          'battery_voltage' => {
+                                 'voltage' => '4.0772',
+                                 'unit' => 'V'
+                               },
+          'altitude' => {
+                          'unit' => 'm',
+                          'height' => 0
+                        }
+        };
+
+------- PARSE NEW PACKET -------
+$VAR1 = {
+          '_info' => {
+                       'packet' => '19CB036F0AD742048D10D34032480549000F4A724C0004135B701E7133353935323130303030303839358801A38903B990019800',
+                       'trusted' => 1
+                     },
+          'imei' => {
+                      'unit' => 'NA',
+                      'number' => '35952100000895'
+                    },
+          'status_outputs' => {
+                                'unit' => 'NA',
+                                'output2' => 0,
+                                'output1' => 0
+                              },
+          'distance' => {
+                          'unit' => 'm',
+                          'distance' => 267099
+                        },
+          'satellites' => {
+                            'unit' => 'number of satellites',
+                            'satellites' => 5
+                          },
+          'quality_gsm_signal' => {
+                                    'unit' => 'NA',
+                                    'signal' => 30
+                                  },
+          'datetime' => {
+                          'hour' => '16',
+                          'unit' => 'UTC',
+                          'minute' => '50',
+                          'second' => '30',
+                          'month' => '04',
+                          'day' => '25',
+                          'year' => '2008'
+                        },
+          'direction' => {
+                           'direction' => 228,
+                           'unit' => 'm'
+                         },
+          'powersupply_voltage' => {
+                                     'voltage' => '14.5739',
+                                     'unit' => 'V'
+                                   },
+          'gps_coord' => {
+                           'unit' => 'UNKNOWN',
+                           'longitude' => '4.89766',
+                           'latitude' => '51.0714',
+                           'gps' => 1
+                         },
+          'speed' => {
+                       'unit' => 'km/u',
+                       'speed' => 50
+                     },
+          'status_inputs_1' => {
+                                 'unit' => 'NA',
+                                 'input1' => 0,
+                                 'input3' => 0,
+                                 'input2' => 0,
+                                 'input4' => 0
+                               },
+          'battery_voltage' => {
+                                 'voltage' => '4.0857',
+                                 'unit' => 'V'
+                               },
+          'altitude' => {
+                          'unit' => 'm',
+                          'height' => 15
+                        }
+        };
+
+------- PARSE NEW PACKET -------
+$VAR1 = {
+          '_info' => {
+                       'packet' => '19CB03810AD73A988D0D81402548064900124A744C00041CD870137133353935323130303030303839358801A48903BA90019800',
+                       'trusted' => 1
+                     },
+          'imei' => {
+                      'unit' => 'NA',
+                      'number' => '35952100000895'
+                    },
+          'status_outputs' => {
+                                'unit' => 'NA',
+                                'output2' => 0,
+                                'output1' => 0
+                              },
+          'distance' => {
+                          'unit' => 'm',
+                          'distance' => 269528
+                        },
+          'satellites' => {
+                            'unit' => 'number of satellites',
+                            'satellites' => 6
+                          },
+          'quality_gsm_signal' => {
+                                    'unit' => 'NA',
+                                    'signal' => 19
+                                  },
+          'datetime' => {
+                          'hour' => '16',
+                          'unit' => 'UTC',
+                          'minute' => '53',
+                          'second' => '30',
+                          'month' => '04',
+                          'day' => '25',
+                          'year' => '2008'
+                        },
+          'direction' => {
+                           'direction' => 232,
+                           'unit' => 'm'
+                         },
+          'powersupply_voltage' => {
+                                     'voltage' => '14.6087',
+                                     'unit' => 'V'
+                                   },
+          'gps_coord' => {
+                           'unit' => 'UNKNOWN',
+                           'longitude' => '4.88066',
+                           'latitude' => '51.0524',
+                           'gps' => 1
+                         },
+          'speed' => {
+                       'unit' => 'km/u',
+                       'speed' => 37
+                     },
+          'status_inputs_1' => {
+                                 'unit' => 'NA',
+                                 'input1' => 0,
+                                 'input3' => 0,
+                                 'input2' => 0,
+                                 'input4' => 0
+                               },
+          'battery_voltage' => {
+                                 'voltage' => '4.0900',
+                                 'unit' => 'V'
+                               },
+          'altitude' => {
+                          'unit' => 'm',
+                          'height' => 18
+                        }
+        };
+
+------- PARSE NEW PACKET -------
+$VAR1 = {
+          '_info' => {
+                       'packet' => '19CB03930AD731B48D07074049480649000F4A664C00042A4F700C7133353935323130303030303839358801A48903BC90019800',
+                       'trusted' => 1
+                     },
+          'imei' => {
+                      'unit' => 'NA',
+                      'number' => '35952100000895'
+                    },
+          'status_outputs' => {
+                                'unit' => 'NA',
+                                'output2' => 0,
+                                'output1' => 0
+                              },
+          'distance' => {
+                          'unit' => 'm',
+                          'distance' => 272975
+                        },
+          'satellites' => {
+                            'unit' => 'number of satellites',
+                            'satellites' => 6
+                          },
+          'quality_gsm_signal' => {
+                                    'unit' => 'NA',
+                                    'signal' => 12
+                                  },
+          'datetime' => {
+                          'hour' => '16',
+                          'unit' => 'UTC',
+                          'minute' => '56',
+                          'second' => '30',
+                          'month' => '04',
+                          'day' => '25',
+                          'year' => '2008'
+                        },
+          'direction' => {
+                           'direction' => 204,
+                           'unit' => 'm'
+                         },
+          'powersupply_voltage' => {
+                                     'voltage' => '14.6087',
+                                     'unit' => 'V'
+                                   },
+          'gps_coord' => {
+                           'unit' => 'UNKNOWN',
+                           'longitude' => '4.8475',
+                           'latitude' => '51.02964',
+                           'gps' => 1
+                         },
+          'speed' => {
+                       'unit' => 'km/u',
+                       'speed' => 73
+                     },
+          'status_inputs_1' => {
+                                 'unit' => 'NA',
+                                 'input1' => 0,
+                                 'input3' => 0,
+                                 'input2' => 0,
+                                 'input4' => 0
+                               },
+          'battery_voltage' => {
+                                 'voltage' => '4.0986',
+                                 'unit' => 'V'
+                               },
+          'altitude' => {
+                          'unit' => 'm',
+                          'height' => 15
+                        }
+        };
+
+------- PARSE NEW PACKET -------
+$VAR1 = {
+          '_info' => {
+                       'packet' => '19CB03A50AD72BD48D05AF400848054900044A624C000430F8701571333539353231303030303038393588019D8903BD90019800',
+                       'trusted' => 1
+                     },
+          'imei' => {
+                      'unit' => 'NA',
+                      'number' => '35952100000895'
+                    },
+          'status_outputs' => {
+                                'unit' => 'NA',
+                                'output2' => 0,
+                                'output1' => 0
+                              },
+          'distance' => {
+                          'unit' => 'm',
+                          'distance' => 274680
+                        },
+          'satellites' => {
+                            'unit' => 'number of satellites',
+                            'satellites' => 5
+                          },
+          'quality_gsm_signal' => {
+                                    'unit' => 'NA',
+                                    'signal' => 21
+                                  },
+          'datetime' => {
+                          'hour' => '16',
+                          'unit' => 'UTC',
+                          'minute' => '59',
+                          'second' => '30',
+                          'month' => '04',
+                          'day' => '25',
+                          'year' => '2008'
+                        },
+          'direction' => {
+                           'direction' => 196,
+                           'unit' => 'm'
+                         },
+          'powersupply_voltage' => {
+                                     'voltage' => '14.3652',
+                                     'unit' => 'V'
+                                   },
+          'gps_coord' => {
+                           'unit' => 'UNKNOWN',
+                           'longitude' => '4.84062',
+                           'latitude' => '51.0146',
+                           'gps' => 1
+                         },
+          'speed' => {
+                       'unit' => 'km/u',
+                       'speed' => 8
+                     },
+          'status_inputs_1' => {
+                                 'unit' => 'NA',
+                                 'input1' => 0,
+                                 'input3' => 0,
+                                 'input2' => 0,
+                                 'input4' => 0
+                               },
+          'battery_voltage' => {
+                                 'voltage' => '4.1029',
+                                 'unit' => 'V'
+                               },
+          'altitude' => {
+                          'unit' => 'm',
+                          'height' => 4
+                        }
+        };
+
+------- PARSE NEW PACKET -------
+$VAR1 = {
+          '_info' => {
+                       'packet' => '19CB03B70AD729128D0539400248034900244A394C00043441700E71333539353231303030303038393588018D8903BE90019800',
+                       'trusted' => 1
+                     },
+          'imei' => {
+                      'unit' => 'NA',
+                      'number' => '35952100000895'
+                    },
+          'status_outputs' => {
+                                'unit' => 'NA',
+                                'output2' => 0,
+                                'output1' => 0
+                              },
+          'distance' => {
+                          'unit' => 'm',
+                          'distance' => 275521
+                        },
+          'satellites' => {
+                            'unit' => 'number of satellites',
+                            'satellites' => 3
+                          },
+          'quality_gsm_signal' => {
+                                    'unit' => 'NA',
+                                    'signal' => 14
+                                  },
+          'datetime' => {
+                          'hour' => '17',
+                          'unit' => 'UTC',
+                          'minute' => '02',
+                          'second' => '30',
+                          'month' => '04',
+                          'day' => '25',
+                          'year' => '2008'
+                        },
+          'direction' => {
+                           'direction' => 114,
+                           'unit' => 'm'
+                         },
+          'powersupply_voltage' => {
+                                     'voltage' => '13.8087',
+                                     'unit' => 'V'
+                                   },
+          'gps_coord' => {
+                           'unit' => 'UNKNOWN',
+                           'longitude' => '4.83826',
+                           'latitude' => '51.00754',
+                           'gps' => 1
+                         },
+          'speed' => {
+                       'unit' => 'km/u',
+                       'speed' => 2
+                     },
+          'status_inputs_1' => {
+                                 'unit' => 'NA',
+                                 'input1' => 0,
+                                 'input3' => 0,
+                                 'input2' => 0,
+                                 'input4' => 0
+                               },
+          'battery_voltage' => {
+                                 'voltage' => '4.1072',
+                                 'unit' => 'V'
+                               },
+          'altitude' => {
+                          'unit' => 'm',
+                          'height' => 36
+                        }
+        };
+
+------- PARSE NEW PACKET -------
+$VAR1 = {
+          '_info' => {
+                       'packet' => '19CB03CB0AD728FA8D05294002480549FFFF4A564C0004347D700A7133353935323130303030303839358800008903A390019800',
+                       'trusted' => 1
+                     },
+          'imei' => {
+                      'unit' => 'NA',
+                      'number' => '35952100000895'
+                    },
+          'status_outputs' => {
+                                'unit' => 'NA',
+                                'output2' => 0,
+                                'output1' => 0
+                              },
+          'distance' => {
+                          'unit' => 'm',
+                          'distance' => 275581
+                        },
+          'satellites' => {
+                            'unit' => 'number of satellites',
+                            'satellites' => 5
+                          },
+          'quality_gsm_signal' => {
+                                    'unit' => 'NA',
+                                    'signal' => 10
+                                  },
+          'datetime' => {
+                          'hour' => '17',
+                          'unit' => 'UTC',
+                          'minute' => '05',
+                          'second' => '50',
+                          'month' => '04',
+                          'day' => '25',
+                          'year' => '2008'
+                        },
+          'direction' => {
+                           'direction' => 172,
+                           'unit' => 'm'
+                         },
+          'powersupply_voltage' => {
+                                     'voltage' => '0.0000',
+                                     'unit' => 'V'
+                                   },
+          'gps_coord' => {
+                           'unit' => 'UNKNOWN',
+                           'longitude' => '4.83794',
+                           'latitude' => '51.0073',
+                           'gps' => 1
+                         },
+          'speed' => {
+                       'unit' => 'km/u',
+                       'speed' => 2
+                     },
+          'status_inputs_1' => {
+                                 'unit' => 'NA',
+                                 'input1' => 0,
+                                 'input3' => 0,
+                                 'input2' => 0,
+                                 'input4' => 0
+                               },
+          'battery_voltage' => {
+                                 'voltage' => '3.9914',
+                                 'unit' => 'V'
+                               },
+          'altitude' => {
+                          'unit' => 'm',
+                          'height' => 0
+                        }
+        };
+
+------- PARSE NEW PACKET -------
+$VAR1 = {
+          '_info' => {
+                       'packet' => '19CB03D500D729028D05304000480449FFF74A004C00043489700A71333539353231303030303038393588000089039E90009800',
+                       'trusted' => 1
+                     },
+          'imei' => {
+                      'unit' => 'NA',
+                      'number' => '35952100000895'
+                    },
+          'status_outputs' => {
+                                'unit' => 'NA',
+                                'output2' => 0,
+                                'output1' => 0
+                              },
+          'distance' => {
+                          'unit' => 'm',
+                          'distance' => 275593
+                        },
+          'satellites' => {
+                            'unit' => 'number of satellites',
+                            'satellites' => 4
+                          },
+          'gps_coord_stop' => {
+                                'unit' => 'UNKNOWN',
+                                'longitude' => '4.83808',
+                                'latitude' => '51.00738',
+                                'gps' => 0
+                              },
+          'quality_gsm_signal' => {
+                                    'unit' => 'NA',
+                                    'signal' => 10
+                                  },
+          'datetime' => {
+                          'hour' => '17',
+                          'unit' => 'UTC',
+                          'minute' => '07',
+                          'second' => '30',
+                          'month' => '04',
+                          'day' => '25',
+                          'year' => '2008'
+                        },
+          'direction' => {
+                           'direction' => 0,
+                           'unit' => 'm'
+                         },
+          'powersupply_voltage' => {
+                                     'voltage' => '0.0000',
+                                     'unit' => 'V'
+                                   },
+          'speed' => {
+                       'unit' => 'km/u',
+                       'speed' => 0
+                     },
+          'status_inputs_1' => {
+                                 'unit' => 'NA',
+                                 'input1' => 0,
+                                 'input3' => 0,
+                                 'input2' => 0,
+                                 'input4' => 0
+                               },
+          'battery_voltage' => {
+                                 'voltage' => '3.9700',
+                                 'unit' => 'V'
+                               },
+          'altitude' => {
+                          'unit' => 'm',
+                          'height' => -8
+                        }
+        };
+
+------- PARSE NEW PACKET -------
+$VAR1 = {
+          '_info' => {
+                       'packet' => '11CAD3300AD76C728D077B4000480649000C4A004C000134DA700D7133353935323130303030303839358801A38903B790019800',
+                       'trusted' => 1
+                     },
+          'imei' => {
+                      'unit' => 'NA',
+                      'number' => '35952100000895'
+                    },
+          'status_outputs' => {
+                                'unit' => 'NA',
+                                'output2' => 0,
+                                'output1' => 0
+                              },
+          'distance' => {
+                          'unit' => 'm',
+                          'distance' => 79066
+                        },
+          'satellites' => {
+                            'unit' => 'number of satellites',
+                            'satellites' => 6
+                          },
+          'quality_gsm_signal' => {
+                                    'unit' => 'NA',
+                                    'signal' => 13
+                                  },
+          'powersupply_voltage' => {
+                                     'voltage' => '14.5739',
+                                     'unit' => 'V'
+                                   },
+          'direction' => {
+                           'direction' => 0,
+                           'unit' => 'm'
+                         },
+          'gps_coord' => {
+                           'unit' => 'UNKNOWN',
+                           'longitude' => '4.84982',
+                           'latitude' => '51.18002',
+                           'gps' => 1
+                         },
+          'speed' => {
+                       'unit' => 'km/u',
+                       'speed' => 0
+                     },
+          'status_inputs_1' => {
+                                 'unit' => 'NA',
+                                 'input1' => 0,
+                                 'input3' => 0,
+                                 'input2' => 0,
+                                 'input4' => 0
+                               },
+          'battery_voltage' => {
+                                 'voltage' => '4.0772',
+                                 'unit' => 'V'
+                               },
+          'datetime_start' => {
+                                'hour' => '06',
+                                'unit' => 'UTC',
+                                'minute' => '32',
+                                'second' => '00',
+                                'month' => '04',
+                                'day' => '24',
+                                'year' => '2008'
+                              },
+          'altitude' => {
+                          'unit' => 'm',
+                          'height' => 12
+                        }
+        };
+
+------- PARSE NEW PACKET -------
+$VAR1 = {
+          '_info' => {
+                       'packet' => '19CA9DF20AD7474C8D1388402E48064900014A504C0000A99D70117133353935323130303030303839358801A489032890019800',
+                       'trusted' => 1
+                     },
+          'imei' => {
+                      'unit' => 'NA',
+                      'number' => '35952100000895'
+                    },
+          'status_outputs' => {
+                                'unit' => 'NA',
+                                'output2' => 0,
+                                'output1' => 0
+                              },
+          'distance' => {
+                          'unit' => 'm',
+                          'distance' => 43421
+                        },
+          'satellites' => {
+                            'unit' => 'number of satellites',
+                            'satellites' => 6
+                          },
+          'quality_gsm_signal' => {
+                                    'unit' => 'NA',
+                                    'signal' => 17
+                                  },
+          'datetime' => {
+                          'hour' => '16',
+                          'unit' => 'UTC',
+                          'minute' => '40',
+                          'second' => '20',
+                          'month' => '04',
+                          'day' => '22',
+                          'year' => '2008'
+                        },
+          'direction' => {
+                           'direction' => 160,
+                           'unit' => 'm'
+                         },
+          'powersupply_voltage' => {
+                                     'voltage' => '14.6087',
+                                     'unit' => 'V'
+                                   },
+          'gps_coord' => {
+                           'unit' => 'UNKNOWN',
+                           'longitude' => '4.91152',
+                           'latitude' => '51.08492',
+                           'gps' => 1
+                         },
+          'speed' => {
+                       'unit' => 'km/u',
+                       'speed' => 46
+                     },
+          'status_inputs_1' => {
+                                 'unit' => 'NA',
+                                 'input1' => 0,
+                                 'input3' => 0,
+                                 'input2' => 0,
+                                 'input4' => 0
+                               },
+          'battery_voltage' => {
+                                 'voltage' => '3.4641',
+                                 'unit' => 'V'
+                               },
+          'altitude' => {
+                          'unit' => 'm',
+                          'height' => 1
+                        }
+        };
+
+------- PARSE NEW PACKET -------
+$VAR1 = {
+          '_info' => {
+                       'packet' => '11CA9D980AD76CEE8D11A14027480549001D4A624C00007B9170177133353935323130303030303839358801A689032890019800',
+                       'trusted' => 1
+                     },
+          'imei' => {
+                      'unit' => 'NA',
+                      'number' => '35952100000895'
+                    },
+          'status_outputs' => {
+                                'unit' => 'NA',
+                                'output2' => 0,
+                                'output1' => 0
+                              },
+          'distance' => {
+                          'unit' => 'm',
+                          'distance' => 31633
+                        },
+          'satellites' => {
+                            'unit' => 'number of satellites',
+                            'satellites' => 5
+                          },
+          'quality_gsm_signal' => {
+                                    'unit' => 'NA',
+                                    'signal' => 23
+                                  },
+          'powersupply_voltage' => {
+                                     'voltage' => '14.6783',
+                                     'unit' => 'V'
+                                   },
+          'direction' => {
+                           'direction' => 196,
+                           'unit' => 'm'
+                         },
+          'gps_coord' => {
+                           'unit' => 'UNKNOWN',
+                           'longitude' => '4.90178',
+                           'latitude' => '51.18126',
+                           'gps' => 1
+                         },
+          'speed' => {
+                       'unit' => 'km/u',
+                       'speed' => 39
+                     },
+          'status_inputs_1' => {
+                                 'unit' => 'NA',
+                                 'input1' => 0,
+                                 'input3' => 0,
+                                 'input2' => 0,
+                                 'input4' => 0
+                               },
+          'battery_voltage' => {
+                                 'voltage' => '3.4641',
+                                 'unit' => 'V'
+                               },
+          'datetime_start' => {
+                                'hour' => '16',
+                                'unit' => 'UTC',
+                                'minute' => '25',
+                                'second' => '20',
+                                'month' => '04',
+                                'day' => '22',
+                                'year' => '2008'
+                              },
+          'altitude' => {
+                          'unit' => 'm',
+                          'height' => 29
+                        }
+        };
+
+------- PARSE NEW PACKET -------
+$VAR1 = {
+          '_info' => {
+                       'packet' => '19CAD36C0AD781DE8D047A403848064900094A024C00015227700D7133353935323130303030303839358801A78903BB90019800',
+                       'trusted' => 1
+                     },
+          'imei' => {
+                      'unit' => 'NA',
+                      'number' => '35952100000895'
+                    },
+          'status_outputs' => {
+                                'unit' => 'NA',
+                                'output2' => 0,
+                                'output1' => 0
+                              },
+          'distance' => {
+                          'unit' => 'm',
+                          'distance' => 86567
+                        },
+          'satellites' => {
+                            'unit' => 'number of satellites',
+                            'satellites' => 6
+                          },
+          'quality_gsm_signal' => {
+                                    'unit' => 'NA',
+                                    'signal' => 13
+                                  },
+          'datetime' => {
+                          'hour' => '06',
+                          'unit' => 'UTC',
+                          'minute' => '42',
+                          'second' => '00',
+                          'month' => '04',
+                          'day' => '24',
+                          'year' => '2008'
+                        },
+          'direction' => {
+                           'direction' => 4,
+                           'unit' => 'm'
+                         },
+          'powersupply_voltage' => {
+                                     'voltage' => '14.7130',
+                                     'unit' => 'V'
+                                   },
+          'gps_coord' => {
+                           'unit' => 'UNKNOWN',
+                           'longitude' => '4.83444',
+                           'latitude' => '51.23486',
+                           'gps' => 1
+                         },
+          'speed' => {
+                       'unit' => 'km/u',
+                       'speed' => 56
+                     },
+          'status_inputs_1' => {
+                                 'unit' => 'NA',
+                                 'input1' => 0,
+                                 'input3' => 0,
+                                 'input2' => 0,
+                                 'input4' => 0
+                               },
+          'battery_voltage' => {
+                                 'voltage' => '4.0943',
+                                 'unit' => 'V'
+                               },
+          'altitude' => {
+                          'unit' => 'm',
+                          'height' => 9
+                        }
+        };
+
+------- PARSE NEW PACKET -------
+$VAR1 = {
+          '_info' => {
+                       'packet' => '19CAD3A80AD79BFE8D08A5403548054900084AB24C000175A670137133353935323130303030303839358801A68903C090019800',
+                       'trusted' => 1
+                     },
+          'imei' => {
+                      'unit' => 'NA',
+                      'number' => '35952100000895'
+                    },
+          'status_outputs' => {
+                                'unit' => 'NA',
+                                'output2' => 0,
+                                'output1' => 0
+                              },
+          'distance' => {
+                          'unit' => 'm',
+                          'distance' => 95654
+                        },
+          'satellites' => {
+                            'unit' => 'number of satellites',
+                            'satellites' => 5
+                          },
+          'quality_gsm_signal' => {
+                                    'unit' => 'NA',
+                                    'signal' => 19
+                                  },
+          'datetime' => {
+                          'hour' => '06',
+                          'unit' => 'UTC',
+                          'minute' => '52',
+                          'second' => '00',
+                          'month' => '04',
+                          'day' => '24',
+                          'year' => '2008'
+                        },
+          'direction' => {
+                           'direction' => 356,
+                           'unit' => 'm'
+                         },
+          'powersupply_voltage' => {
+                                     'voltage' => '14.6783',
+                                     'unit' => 'V'
+                                   },
+          'gps_coord' => {
+                           'unit' => 'UNKNOWN',
+                           'longitude' => '4.85578',
+                           'latitude' => '51.30174',
+                           'gps' => 1
+                         },
+          'speed' => {
+                       'unit' => 'km/u',
+                       'speed' => 53
+                     },
+          'status_inputs_1' => {
+                                 'unit' => 'NA',
+                                 'input1' => 0,
+                                 'input3' => 0,
+                                 'input2' => 0,
+                                 'input4' => 0
+                               },
+          'battery_voltage' => {
+                                 'voltage' => '4.1158',
+                                 'unit' => 'V'
+                               },
+          'altitude' => {
+                          'unit' => 'm',
+                          'height' => 8
+                        }
+        };
+
+------- PARSE NEW PACKET -------
+$VAR1 = {
+          '_info' => {
+                       'packet' => '19CAD3CD02D79E628D06724000480649FFFE4A004C00017ED4701371333539353231303030303038393588000089039F90009800',
+                       'trusted' => 1
+                     },
+          'imei' => {
+                      'unit' => 'NA',
+                      'number' => '35952100000895'
+                    },
+          'status_outputs' => {
+                                'unit' => 'NA',
+                                'output2' => 0,
+                                'output1' => 0
+                              },
+          'distance' => {
+                          'unit' => 'm',
+                          'distance' => 98004
+                        },
+          'satellites' => {
+                            'unit' => 'number of satellites',
+                            'satellites' => 6
+                          },
+          'gps_coord_stop' => {
+                                'unit' => 'UNKNOWN',
+                                'longitude' => '4.84452',
+                                'latitude' => '51.30786',
+                                'gps' => 1
+                              },
+          'quality_gsm_signal' => {
+                                    'unit' => 'NA',
+                                    'signal' => 19
+                                  },
+          'datetime' => {
+                          'hour' => '06',
+                          'unit' => 'UTC',
+                          'minute' => '58',
+                          'second' => '10',
+                          'month' => '04',
+                          'day' => '24',
+                          'year' => '2008'
+                        },
+          'direction' => {
+                           'direction' => 0,
+                           'unit' => 'm'
+                         },
+          'powersupply_voltage' => {
+                                     'voltage' => '0.0000',
+                                     'unit' => 'V'
+                                   },
+          'speed' => {
+                       'unit' => 'km/u',
+                       'speed' => 0
+                     },
+          'status_inputs_1' => {
+                                 'unit' => 'NA',
+                                 'input1' => 0,
+                                 'input3' => 0,
+                                 'input2' => 0,
+                                 'input4' => 0
+                               },
+          'battery_voltage' => {
+                                 'voltage' => '3.9743',
+                                 'unit' => 'V'
+                               },
+          'altitude' => {
+                          'unit' => 'm',
+                          'height' => -1
+                        }
+        };
+
+------- PARSE NEW PACKET -------
+$VAR1 = {
+          '_info' => {
+                       'packet' => '11CAE0AA08D79E628D06724000480049FFFE4A004C00017ED4701A71333539353231303030303038393588017989038390019800',
+                       'trusted' => 1
+                     },
+          'imei' => {
+                      'unit' => 'NA',
+                      'number' => '35952100000895'
+                    },
+          'status_outputs' => {
+                                'unit' => 'NA',
+                                'output2' => 0,
+                                'output1' => 0
+                              },
+          'distance' => {
+                          'unit' => 'm',
+                          'distance' => 98004
+                        },
+          'satellites' => {
+                            'unit' => 'number of satellites',
+                            'satellites' => 0
+                          },
+          'quality_gsm_signal' => {
+                                    'unit' => 'NA',
+                                    'signal' => 26
+                                  },
+          'powersupply_voltage' => {
+                                     'voltage' => '13.1130',
+                                     'unit' => 'V'
+                                   },
+          'direction' => {
+                           'direction' => 0,
+                           'unit' => 'm'
+                         },
+          'gps_coord' => {
+                           'unit' => 'UNKNOWN',
+                           'longitude' => '4.84452',
+                           'latitude' => '51.30786',
+                           'gps' => 0
+                         },
+          'speed' => {
+                       'unit' => 'km/u',
+                       'speed' => 0
+                     },
+          'status_inputs_1' => {
+                                 'unit' => 'NA',
+                                 'input1' => 0,
+                                 'input3' => 0,
+                                 'input2' => 0,
+                                 'input4' => 0
+                               },
+          'battery_voltage' => {
+                                 'voltage' => '3.8542',
+                                 'unit' => 'V'
+                               },
+          'datetime_start' => {
+                                'hour' => '16',
+                                'unit' => 'UTC',
+                                'minute' => '07',
+                                'second' => '00',
+                                'month' => '04',
+                                'day' => '24',
+                                'year' => '2008'
+                              },
+          'altitude' => {
+                          'unit' => 'm',
+                          'height' => -1
+                        }
+        };
+
+------- PARSE NEW PACKET -------
+$VAR1 = {
+          '_info' => {
+                       'packet' => '19CAE0E608D79E628D06724000480049FFFE4A004C00017ED470137133353935323130303030303839358801A28903A690019800',
+                       'trusted' => 1
+                     },
+          'imei' => {
+                      'unit' => 'NA',
+                      'number' => '35952100000895'
+                    },
+          'status_outputs' => {
+                                'unit' => 'NA',
+                                'output2' => 0,
+                                'output1' => 0
+                              },
+          'distance' => {
+                          'unit' => 'm',
+                          'distance' => 98004
+                        },
+          'satellites' => {
+                            'unit' => 'number of satellites',
+                            'satellites' => 0
+                          },
+          'quality_gsm_signal' => {
+                                    'unit' => 'NA',
+                                    'signal' => 19
+                                  },
+          'datetime' => {
+                          'hour' => '16',
+                          'unit' => 'UTC',
+                          'minute' => '17',
+                          'second' => '00',
+                          'month' => '04',
+                          'day' => '24',
+                          'year' => '2008'
+                        },
+          'direction' => {
+                           'direction' => 0,
+                           'unit' => 'm'
+                         },
+          'powersupply_voltage' => {
+                                     'voltage' => '14.5391',
+                                     'unit' => 'V'
+                                   },
+          'gps_coord' => {
+                           'unit' => 'UNKNOWN',
+                           'longitude' => '4.84452',
+                           'latitude' => '51.30786',
+                           'gps' => 0
+                         },
+          'speed' => {
+                       'unit' => 'km/u',
+                       'speed' => 0
+                     },
+          'status_inputs_1' => {
+                                 'unit' => 'NA',
+                                 'input1' => 0,
+                                 'input3' => 0,
+                                 'input2' => 0,
+                                 'input4' => 0
+                               },
+          'battery_voltage' => {
+                                 'voltage' => '4.0043',
+                                 'unit' => 'V'
+                               },
+          'altitude' => {
+                          'unit' => 'm',
+                          'height' => -1
+                        }
+        };
+
+------- PARSE NEW PACKET -------
+$VAR1 = {
+          '_info' => {
+                       'packet' => '19CAE1220AD778DE8CC513406548064900084A854C0001F0D0700F7133353935323130303030303839358801A38903AC90019800',
+                       'trusted' => 1
+                     },
+          'imei' => {
+                      'unit' => 'NA',
+                      'number' => '35952100000895'
+                    },
+          'status_outputs' => {
+                                'unit' => 'NA',
+                                'output2' => 0,
+                                'output1' => 0
+                              },
+          'distance' => {
+                          'unit' => 'm',
+                          'distance' => 127184
+                        },
+          'satellites' => {
+                            'unit' => 'number of satellites',
+                            'satellites' => 6
+                          },
+          'quality_gsm_signal' => {
+                                    'unit' => 'NA',
+                                    'signal' => 15
+                                  },
+          'datetime' => {
+                          'hour' => '16',
+                          'unit' => 'UTC',
+                          'minute' => '27',
+                          'second' => '00',
+                          'month' => '04',
+                          'day' => '24',
+                          'year' => '2008'
+                        },
+          'direction' => {
+                           'direction' => 266,
+                           'unit' => 'm'
+                         },
+          'powersupply_voltage' => {
+                                     'voltage' => '14.5739',
+                                     'unit' => 'V'
+                                   },
+          'gps_coord' => {
+                           'unit' => 'UNKNOWN',
+                           'longitude' => '4.50982',
+                           'latitude' => '51.21182',
+                           'gps' => 1
+                         },
+          'speed' => {
+                       'unit' => 'km/u',
+                       'speed' => 101
+                     },
+          'status_inputs_1' => {
+                                 'unit' => 'NA',
+                                 'input1' => 0,
+                                 'input3' => 0,
+                                 'input2' => 0,
+                                 'input4' => 0
+                               },
+          'battery_voltage' => {
+                                 'voltage' => '4.0300',
+                                 'unit' => 'V'
+                               },
+          'altitude' => {
+                          'unit' => 'm',
+                          'height' => 8
+                        }
+        };
+
+------- PARSE NEW PACKET -------
+$VAR1 = {
+          '_info' => {
+                       'packet' => '19CAE15E0AD77AC88CBA17401E48074900034A894C00020156701F71333539353231303030303038393588019E8903B190019800',
+                       'trusted' => 1
+                     },
+          'imei' => {
+                      'unit' => 'NA',
+                      'number' => '35952100000895'
+                    },
+          'status_outputs' => {
+                                'unit' => 'NA',
+                                'output2' => 0,
+                                'output1' => 0
+                              },
+          'distance' => {
+                          'unit' => 'm',
+                          'distance' => 131414
+                        },
+          'satellites' => {
+                            'unit' => 'number of satellites',
+                            'satellites' => 7
+                          },
+          'quality_gsm_signal' => {
+                                    'unit' => 'NA',
+                                    'signal' => 31
+                                  },
+          'datetime' => {
+                          'hour' => '16',
+                          'unit' => 'UTC',
+                          'minute' => '37',
+                          'second' => '00',
+                          'month' => '04',
+                          'day' => '24',
+                          'year' => '2008'
+                        },
+          'direction' => {
+                           'direction' => 274,
+                           'unit' => 'm'
+                         },
+          'powersupply_voltage' => {
+                                     'voltage' => '14.4000',
+                                     'unit' => 'V'
+                                   },
+          'gps_coord' => {
+                           'unit' => 'UNKNOWN',
+                           'longitude' => '4.45358',
+                           'latitude' => '51.21672',
+                           'gps' => 1
+                         },
+          'speed' => {
+                       'unit' => 'km/u',
+                       'speed' => 30
+                     },
+          'status_inputs_1' => {
+                                 'unit' => 'NA',
+                                 'input1' => 0,
+                                 'input3' => 0,
+                                 'input2' => 0,
+                                 'input4' => 0
+                               },
+          'battery_voltage' => {
+                                 'voltage' => '4.0514',
+                                 'unit' => 'V'
+                               },
+          'altitude' => {
+                          'unit' => 'm',
+                          'height' => 3
+                        }
+        };
+
+------- PARSE NEW PACKET -------
+$VAR1 = {
+          '_info' => {
+                       'packet' => '19CAE19A0AD771B88CB57D4019480749000D4A754C00020E3E70197133353935323130303030303839358801A18903B590019800',
+                       'trusted' => 1
+                     },
+          'imei' => {
+                      'unit' => 'NA',
+                      'number' => '35952100000895'
+                    },
+          'status_outputs' => {
+                                'unit' => 'NA',
+                                'output2' => 0,
+                                'output1' => 0
+                              },
+          'distance' => {
+                          'unit' => 'm',
+                          'distance' => 134718
+                        },
+          'satellites' => {
+                            'unit' => 'number of satellites',
+                            'satellites' => 7
+                          },
+          'quality_gsm_signal' => {
+                                    'unit' => 'NA',
+                                    'signal' => 25
+                                  },
+          'datetime' => {
+                          'hour' => '16',
+                          'unit' => 'UTC',
+                          'minute' => '47',
+                          'second' => '00',
+                          'month' => '04',
+                          'day' => '24',
+                          'year' => '2008'
+                        },
+          'direction' => {
+                           'direction' => 234,
+                           'unit' => 'm'
+                         },
+          'powersupply_voltage' => {
+                                     'voltage' => '14.5043',
+                                     'unit' => 'V'
+                                   },
+          'gps_coord' => {
+                           'unit' => 'UNKNOWN',
+                           'longitude' => '4.43002',
+                           'latitude' => '51.19352',
+                           'gps' => 1
+                         },
+          'speed' => {
+                       'unit' => 'km/u',
+                       'speed' => 25
+                     },
+          'status_inputs_1' => {
+                                 'unit' => 'NA',
+                                 'input1' => 0,
+                                 'input3' => 0,
+                                 'input2' => 0,
+                                 'input4' => 0
+                               },
+          'battery_voltage' => {
+                                 'voltage' => '4.0686',
+                                 'unit' => 'V'
+                               },
+          'altitude' => {
+                          'unit' => 'm',
+                          'height' => 13
+                        }
+        };
+
+------- PARSE NEW PACKET -------
+$VAR1 = {
+          '_info' => {
+                       'packet' => '19CAE1D60AD736E68CB9F3407348054900004A5B4C000259BA70137133353935323130303030303839358801A28903B990019800',
+                       'trusted' => 1
+                     },
+          'imei' => {
+                      'unit' => 'NA',
+                      'number' => '35952100000895'
+                    },
+          'status_outputs' => {
+                                'unit' => 'NA',
+                                'output2' => 0,
+                                'output1' => 0
+                              },
+          'distance' => {
+                          'unit' => 'm',
+                          'distance' => 154042
+                        },
+          'satellites' => {
+                            'unit' => 'number of satellites',
+                            'satellites' => 5
+                          },
+          'quality_gsm_signal' => {
+                                    'unit' => 'NA',
+                                    'signal' => 19
+                                  },
+          'datetime' => {
+                          'hour' => '16',
+                          'unit' => 'UTC',
+                          'minute' => '57',
+                          'second' => '00',
+                          'month' => '04',
+                          'day' => '24',
+                          'year' => '2008'
+                        },
+          'direction' => {
+                           'direction' => 182,
+                           'unit' => 'm'
+                         },
+          'powersupply_voltage' => {
+                                     'voltage' => '14.5391',
+                                     'unit' => 'V'
+                                   },
+          'gps_coord' => {
+                           'unit' => 'UNKNOWN',
+                           'longitude' => '4.45286',
+                           'latitude' => '51.04294',
+                           'gps' => 1
+                         },
+          'speed' => {
+                       'unit' => 'km/u',
+                       'speed' => 115
+                     },
+          'status_inputs_1' => {
+                                 'unit' => 'NA',
+                                 'input1' => 0,
+                                 'input3' => 0,
+                                 'input2' => 0,
+                                 'input4' => 0
+                               },
+          'battery_voltage' => {
+                                 'voltage' => '4.0857',
+                                 'unit' => 'V'
+                               },
+          'altitude' => {
+                          'unit' => 'm',
+                          'height' => 0
+                        }
+        };
+
+------- PARSE NEW PACKET -------
+$VAR1 = {
+          '_info' => {
+                       'packet' => '19CAE24E0AD71BB08CBDE9400B48064900084AA44C0002A033701871333539353231303030303038393588019E8903C390019800',
+                       'trusted' => 1
+                     },
+          'imei' => {
+                      'unit' => 'NA',
+                      'number' => '35952100000895'
+                    },
+          'status_outputs' => {
+                                'unit' => 'NA',
+                                'output2' => 0,
+                                'output1' => 0
+                              },
+          'distance' => {
+                          'unit' => 'm',
+                          'distance' => 172083
+                        },
+          'satellites' => {
+                            'unit' => 'number of satellites',
+                            'satellites' => 6
+                          },
+          'quality_gsm_signal' => {
+                                    'unit' => 'NA',
+                                    'signal' => 24
+                                  },
+          'datetime' => {
+                          'hour' => '17',
+                          'unit' => 'UTC',
+                          'minute' => '17',
+                          'second' => '00',
+                          'month' => '04',
+                          'day' => '24',
+                          'year' => '2008'
+                        },
+          'direction' => {
+                           'direction' => 328,
+                           'unit' => 'm'
+                         },
+          'powersupply_voltage' => {
+                                     'voltage' => '14.4000',
+                                     'unit' => 'V'
+                                   },
+          'gps_coord' => {
+                           'unit' => 'UNKNOWN',
+                           'longitude' => '4.47314',
+                           'latitude' => '50.97328',
+                           'gps' => 1
+                         },
+          'speed' => {
+                       'unit' => 'km/u',
+                       'speed' => 11
+                     },
+          'status_inputs_1' => {
+                                 'unit' => 'NA',
+                                 'input1' => 0,
+                                 'input3' => 0,
+                                 'input2' => 0,
+                                 'input4' => 0
+                               },
+          'battery_voltage' => {
+                                 'voltage' => '4.1286',
+                                 'unit' => 'V'
+                               },
+          'altitude' => {
+                          'unit' => 'm',
+                          'height' => 8
+                        }
+        };
+
+------- PARSE NEW PACKET -------
+$VAR1 = {
+          '_info' => {
+                       'packet' => '19CAE26C02D71BE88CBD4C4000480549000C4A004C0002A3D070187133353935323130303030303839358800008903A490009800',
+                       'trusted' => 1
+                     },
+          'imei' => {
+                      'unit' => 'NA',
+                      'number' => '35952100000895'
+                    },
+          'status_outputs' => {
+                                'unit' => 'NA',
+                                'output2' => 0,
+                                'output1' => 0
+                              },
+          'distance' => {
+                          'unit' => 'm',
+                          'distance' => 173008
+                        },
+          'satellites' => {
+                            'unit' => 'number of satellites',
+                            'satellites' => 5
+                          },
+          'gps_coord_stop' => {
+                                'unit' => 'UNKNOWN',
+                                'longitude' => '4.47',
+                                'latitude' => '50.97384',
+                                'gps' => 1
+                              },
+          'quality_gsm_signal' => {
+                                    'unit' => 'NA',
+                                    'signal' => 24
+                                  },
+          'datetime' => {
+                          'hour' => '17',
+                          'unit' => 'UTC',
+                          'minute' => '22',
+                          'second' => '00',
+                          'month' => '04',
+                          'day' => '24',
+                          'year' => '2008'
+                        },
+          'direction' => {
+                           'direction' => 0,
+                           'unit' => 'm'
+                         },
+          'powersupply_voltage' => {
+                                     'voltage' => '0.0000',
+                                     'unit' => 'V'
+                                   },
+          'speed' => {
+                       'unit' => 'km/u',
+                       'speed' => 0
+                     },
+          'status_inputs_1' => {
+                                 'unit' => 'NA',
+                                 'input1' => 0,
+                                 'input3' => 0,
+                                 'input2' => 0,
+                                 'input4' => 0
+                               },
+          'battery_voltage' => {
+                                 'voltage' => '3.9957',
+                                 'unit' => 'V'
+                               },
+          'altitude' => {
+                          'unit' => 'm',
+                          'height' => 12
+                        }
+        };
+
+------- PARSE NEW PACKET -------
+$VAR1 = {
+          '_info' => {
+                       'packet' => '11CAE3E908D71BE88CBD4C4000480049000C4A004C0002A3D0701C7133353935323130303030303839358800008903A090019800',
+                       'trusted' => 1
+                     },
+          'imei' => {
+                      'unit' => 'NA',
+                      'number' => '35952100000895'
+                    },
+          'status_outputs' => {
+                                'unit' => 'NA',
+                                'output2' => 0,
+                                'output1' => 0
+                              },
+          'distance' => {
+                          'unit' => 'm',
+                          'distance' => 173008
+                        },
+          'satellites' => {
+                            'unit' => 'number of satellites',
+                            'satellites' => 0
+                          },
+          'quality_gsm_signal' => {
+                                    'unit' => 'NA',
+                                    'signal' => 28
+                                  },
+          'powersupply_voltage' => {
+                                     'voltage' => '0.0000',
+                                     'unit' => 'V'
+                                   },
+          'direction' => {
+                           'direction' => 0,
+                           'unit' => 'm'
+                         },
+          'gps_coord' => {
+                           'unit' => 'UNKNOWN',
+                           'longitude' => '4.47',
+                           'latitude' => '50.97384',
+                           'gps' => 0
+                         },
+          'speed' => {
+                       'unit' => 'km/u',
+                       'speed' => 0
+                     },
+          'status_inputs_1' => {
+                                 'unit' => 'NA',
+                                 'input1' => 0,
+                                 'input3' => 0,
+                                 'input2' => 0,
+                                 'input4' => 0
+                               },
+          'battery_voltage' => {
+                                 'voltage' => '3.9786',
+                                 'unit' => 'V'
+                               },
+          'datetime_start' => {
+                                'hour' => '18',
+                                'unit' => 'UTC',
+                                'minute' => '25',
+                                'second' => '30',
+                                'month' => '04',
+                                'day' => '24',
+                                'year' => '2008'
+                              },
+          'altitude' => {
+                          'unit' => 'm',
+                          'height' => 12
+                        }
+        };
+
+------- PARSE NEW PACKET -------
+$VAR1 = {
+          '_info' => {
+                       'packet' => '19CAE42508D71BE88CBD4C4000480049000C4A004C0002A3D0701771333539353231303030303038393588000089039A90019800',
+                       'trusted' => 1
+                     },
+          'imei' => {
+                      'unit' => 'NA',
+                      'number' => '35952100000895'
+                    },
+          'status_outputs' => {
+                                'unit' => 'NA',
+                                'output2' => 0,
+                                'output1' => 0
+                              },
+          'distance' => {
+                          'unit' => 'm',
+                          'distance' => 173008
+                        },
+          'satellites' => {
+                            'unit' => 'number of satellites',
+                            'satellites' => 0
+                          },
+          'quality_gsm_signal' => {
+                                    'unit' => 'NA',
+                                    'signal' => 23
+                                  },
+          'datetime' => {
+                          'hour' => '18',
+                          'unit' => 'UTC',
+                          'minute' => '35',
+                          'second' => '30',
+                          'month' => '04',
+                          'day' => '24',
+                          'year' => '2008'
+                        },
+          'direction' => {
+                           'direction' => 0,
+                           'unit' => 'm'
+                         },
+          'powersupply_voltage' => {
+                                     'voltage' => '0.0000',
+                                     'unit' => 'V'
+                                   },
+          'gps_coord' => {
+                           'unit' => 'UNKNOWN',
+                           'longitude' => '4.47',
+                           'latitude' => '50.97384',
+                           'gps' => 0
+                         },
+          'speed' => {
+                       'unit' => 'km/u',
+                       'speed' => 0
+                     },
+          'status_inputs_1' => {
+                                 'unit' => 'NA',
+                                 'input1' => 0,
+                                 'input3' => 0,
+                                 'input2' => 0,
+                                 'input4' => 0
+                               },
+          'battery_voltage' => {
+                                 'voltage' => '3.9528',
+                                 'unit' => 'V'
+                               },
+          'altitude' => {
+                          'unit' => 'm',
+                          'height' => 12
+                        }
+        };
+
+------- PARSE NEW PACKET -------
+$VAR1 = {
+          '_info' => {
+                       'packet' => '19CAE44100D71BE88CBD4C4000480049000C4A004C0002A3D0701771333539353231303030303038393588000089039B90009800',
+                       'trusted' => 1
+                     },
+          'imei' => {
+                      'unit' => 'NA',
+                      'number' => '35952100000895'
+                    },
+          'status_outputs' => {
+                                'unit' => 'NA',
+                                'output2' => 0,
+                                'output1' => 0
+                              },
+          'distance' => {
+                          'unit' => 'm',
+                          'distance' => 173008
+                        },
+          'satellites' => {
+                            'unit' => 'number of satellites',
+                            'satellites' => 0
+                          },
+          'gps_coord_stop' => {
+                                'unit' => 'UNKNOWN',
+                                'longitude' => '4.47',
+                                'latitude' => '50.97384',
+                                'gps' => 0
+                              },
+          'quality_gsm_signal' => {
+                                    'unit' => 'NA',
+                                    'signal' => 23
+                                  },
+          'datetime' => {
+                          'hour' => '18',
+                          'unit' => 'UTC',
+                          'minute' => '40',
+                          'second' => '10',
+                          'month' => '04',
+                          'day' => '24',
+                          'year' => '2008'
+                        },
+          'direction' => {
+                           'direction' => 0,
+                           'unit' => 'm'
+                         },
+          'powersupply_voltage' => {
+                                     'voltage' => '0.0000',
+                                     'unit' => 'V'
+                                   },
+          'speed' => {
+                       'unit' => 'km/u',
+                       'speed' => 0
+                     },
+          'status_inputs_1' => {
+                                 'unit' => 'NA',
+                                 'input1' => 0,
+                                 'input3' => 0,
+                                 'input2' => 0,
+                                 'input4' => 0
+                               },
+          'battery_voltage' => {
+                                 'voltage' => '3.9571',
+                                 'unit' => 'V'
+                               },
+          'altitude' => {
+                          'unit' => 'm',
+                          'height' => 12
+                        }
+        };
+
+------- PARSE NEW PACKET -------
+$VAR1 = {
+          '_info' => {
+                       'packet' => '11CAE55308D71BE88CBD4C4000480049000C4A004C0002A3D0701871333539353231303030303038393588000089039A90019800',
+                       'trusted' => 1
+                     },
+          'imei' => {
+                      'unit' => 'NA',
+                      'number' => '35952100000895'
+                    },
+          'status_outputs' => {
+                                'unit' => 'NA',
+                                'output2' => 0,
+                                'output1' => 0
+                              },
+          'distance' => {
+                          'unit' => 'm',
+                          'distance' => 173008
+                        },
+          'satellites' => {
+                            'unit' => 'number of satellites',
+                            'satellites' => 0
+                          },
+          'quality_gsm_signal' => {
+                                    'unit' => 'NA',
+                                    'signal' => 24
+                                  },
+          'powersupply_voltage' => {
+                                     'voltage' => '0.0000',
+                                     'unit' => 'V'
+                                   },
+          'direction' => {
+                           'direction' => 0,
+                           'unit' => 'm'
+                         },
+          'gps_coord' => {
+                           'unit' => 'UNKNOWN',
+                           'longitude' => '4.47',
+                           'latitude' => '50.97384',
+                           'gps' => 0
+                         },
+          'speed' => {
+                       'unit' => 'km/u',
+                       'speed' => 0
+                     },
+          'status_inputs_1' => {
+                                 'unit' => 'NA',
+                                 'input1' => 0,
+                                 'input3' => 0,
+                                 'input2' => 0,
+                                 'input4' => 0
+                               },
+          'battery_voltage' => {
+                                 'voltage' => '3.9528',
+                                 'unit' => 'V'
+                               },
+          'datetime_start' => {
+                                'hour' => '19',
+                                'unit' => 'UTC',
+                                'minute' => '25',
+                                'second' => '50',
+                                'month' => '04',
+                                'day' => '24',
+                                'year' => '2008'
+                              },
+          'altitude' => {
+                          'unit' => 'm',
+                          'height' => 12
+                        }
+        };
+
+------- PARSE NEW PACKET -------
+$VAR1 = {
+          '_info' => {
+                       'packet' => '19CAE56C00D71BE88CBD4C4000480049000C4A004C0002A3D0701871333539353231303030303038393588000089039890009800',
+                       'trusted' => 1
+                     },
+          'imei' => {
+                      'unit' => 'NA',
+                      'number' => '35952100000895'
+                    },
+          'status_outputs' => {
+                                'unit' => 'NA',
+                                'output2' => 0,
+                                'output1' => 0
+                              },
+          'distance' => {
+                          'unit' => 'm',
+                          'distance' => 173008
+                        },
+          'satellites' => {
+                            'unit' => 'number of satellites',
+                            'satellites' => 0
+                          },
+          'gps_coord_stop' => {
+                                'unit' => 'UNKNOWN',
+                                'longitude' => '4.47',
+                                'latitude' => '50.97384',
+                                'gps' => 0
+                              },
+          'quality_gsm_signal' => {
+                                    'unit' => 'NA',
+                                    'signal' => 24
+                                  },
+          'datetime' => {
+                          'hour' => '19',
+                          'unit' => 'UTC',
+                          'minute' => '30',
+                          'second' => '00',
+                          'month' => '04',
+                          'day' => '24',
+                          'year' => '2008'
+                        },
+          'direction' => {
+                           'direction' => 0,
+                           'unit' => 'm'
+                         },
+          'powersupply_voltage' => {
+                                     'voltage' => '0.0000',
+                                     'unit' => 'V'
+                                   },
+          'speed' => {
+                       'unit' => 'km/u',
+                       'speed' => 0
+                     },
+          'status_inputs_1' => {
+                                 'unit' => 'NA',
+                                 'input1' => 0,
+                                 'input3' => 0,
+                                 'input2' => 0,
+                                 'input4' => 0
+                               },
+          'battery_voltage' => {
+                                 'voltage' => '3.9443',
+                                 'unit' => 'V'
+                               },
+          'altitude' => {
+                          'unit' => 'm',
+                          'height' => 12
+                        }
+        };
+
+------- PARSE NEW PACKET -------
+$VAR1 = {
+          '_info' => {
+                       'packet' => '11CAE5AD08D71BE88CBD4C4000480049000C4A004C0002A3D0701771333539353231303030303038393588000089039890019800',
+                       'trusted' => 1
+                     },
+          'imei' => {
+                      'unit' => 'NA',
+                      'number' => '35952100000895'
+                    },
+          'status_outputs' => {
+                                'unit' => 'NA',
+                                'output2' => 0,
+                                'output1' => 0
+                              },
+          'distance' => {
+                          'unit' => 'm',
+                          'distance' => 173008
+                        },
+          'satellites' => {
+                            'unit' => 'number of satellites',
+                            'satellites' => 0
+                          },
+          'quality_gsm_signal' => {
+                                    'unit' => 'NA',
+                                    'signal' => 23
+                                  },
+          'powersupply_voltage' => {
+                                     'voltage' => '0.0000',
+                                     'unit' => 'V'
+                                   },
+          'direction' => {
+                           'direction' => 0,
+                           'unit' => 'm'
+                         },
+          'gps_coord' => {
+                           'unit' => 'UNKNOWN',
+                           'longitude' => '4.47',
+                           'latitude' => '50.97384',
+                           'gps' => 0
+                         },
+          'speed' => {
+                       'unit' => 'km/u',
+                       'speed' => 0
+                     },
+          'status_inputs_1' => {
+                                 'unit' => 'NA',
+                                 'input1' => 0,
+                                 'input3' => 0,
+                                 'input2' => 0,
+                                 'input4' => 0
+                               },
+          'battery_voltage' => {
+                                 'voltage' => '3.9443',
+                                 'unit' => 'V'
+                               },
+          'datetime_start' => {
+                                'hour' => '19',
+                                'unit' => 'UTC',
+                                'minute' => '40',
+                                'second' => '50',
+                                'month' => '04',
+                                'day' => '24',
+                                'year' => '2008'
+                              },
+          'altitude' => {
+                          'unit' => 'm',
+                          'height' => 12
+                        }
+        };
+
+------- PARSE NEW PACKET -------
+$VAR1 = {
+          '_info' => {
+                       'packet' => '19CAE5E90AD709468CBC9F407A48054900114A674C0002BBB370127133353935323130303030303839358801A58903B690019800',
+                       'trusted' => 1
+                     },
+          'imei' => {
+                      'unit' => 'NA',
+                      'number' => '35952100000895'
+                    },
+          'status_outputs' => {
+                                'unit' => 'NA',
+                                'output2' => 0,
+                                'output1' => 0
+                              },
+          'distance' => {
+                          'unit' => 'm',
+                          'distance' => 179123
+                        },
+          'satellites' => {
+                            'unit' => 'number of satellites',
+                            'satellites' => 5
+                          },
+          'quality_gsm_signal' => {
+                                    'unit' => 'NA',
+                                    'signal' => 18
+                                  },
+          'datetime' => {
+                          'hour' => '19',
+                          'unit' => 'UTC',
+                          'minute' => '50',
+                          'second' => '50',
+                          'month' => '04',
+                          'day' => '24',
+                          'year' => '2008'
+                        },
+          'direction' => {
+                           'direction' => 206,
+                           'unit' => 'm'
+                         },
+          'powersupply_voltage' => {
+                                     'voltage' => '14.6435',
+                                     'unit' => 'V'
+                                   },
+          'gps_coord' => {
+                           'unit' => 'UNKNOWN',
+                           'longitude' => '4.46654',
+                           'latitude' => '50.92614',
+                           'gps' => 1
+                         },
+          'speed' => {
+                       'unit' => 'km/u',
+                       'speed' => 122
+                     },
+          'status_inputs_1' => {
+                                 'unit' => 'NA',
+                                 'input1' => 0,
+                                 'input3' => 0,
+                                 'input2' => 0,
+                                 'input4' => 0
+                               },
+          'battery_voltage' => {
+                                 'voltage' => '4.0729',
+                                 'unit' => 'V'
+                               },
+          'altitude' => {
+                          'unit' => 'm',
+                          'height' => 17
+                        }
+        };
+
+------- PARSE NEW PACKET -------
+$VAR1 = {
+          '_info' => {
+                       'packet' => '19CAE6250AD6EFF28CD831407448064900354A334C0003082D701C7133353935323130303030303839358801A58903C090019800',
+                       'trusted' => 1
+                     },
+          'imei' => {
+                      'unit' => 'NA',
+                      'number' => '35952100000895'
+                    },
+          'status_outputs' => {
+                                'unit' => 'NA',
+                                'output2' => 0,
+                                'output1' => 0
+                              },
+          'distance' => {
+                          'unit' => 'm',
+                          'distance' => 198701
+                        },
+          'satellites' => {
+                            'unit' => 'number of satellites',
+                            'satellites' => 6
+                          },
+          'quality_gsm_signal' => {
+                                    'unit' => 'NA',
+                                    'signal' => 28
+                                  },
+          'datetime' => {
+                          'hour' => '20',
+                          'unit' => 'UTC',
+                          'minute' => '00',
+                          'second' => '50',
+                          'month' => '04',
+                          'day' => '24',
+                          'year' => '2008'
+                        },
+          'direction' => {
+                           'direction' => 102,
+                           'unit' => 'm'
+                         },
+          'powersupply_voltage' => {
+                                     'voltage' => '14.6435',
+                                     'unit' => 'V'
+                                   },
+          'gps_coord' => {
+                           'unit' => 'UNKNOWN',
+                           'longitude' => '4.6077',
+                           'latitude' => '50.8613',
+                           'gps' => 1
+                         },
+          'speed' => {
+                       'unit' => 'km/u',
+                       'speed' => 116
+                     },
+          'status_inputs_1' => {
+                                 'unit' => 'NA',
+                                 'input1' => 0,
+                                 'input3' => 0,
+                                 'input2' => 0,
+                                 'input4' => 0
+                               },
+          'battery_voltage' => {
+                                 'voltage' => '4.1158',
+                                 'unit' => 'V'
+                               },
+          'altitude' => {
+                          'unit' => 'm',
+                          'height' => 53
+                        }
+        };
+
+------- PARSE NEW PACKET -------
+$VAR1 = {
+          '_info' => {
+                       'packet' => '19CAE6610AD716968D0095407748084900374A1C4C000359C0700F7133353935323130303030303839358801A58903C590019800',
+                       'trusted' => 1
+                     },
+          'imei' => {
+                      'unit' => 'NA',
+                      'number' => '35952100000895'
+                    },
+          'status_outputs' => {
+                                'unit' => 'NA',
+                                'output2' => 0,
+                                'output1' => 0
+                              },
+          'distance' => {
+                          'unit' => 'm',
+                          'distance' => 219584
+                        },
+          'satellites' => {
+                            'unit' => 'number of satellites',
+                            'satellites' => 8
+                          },
+          'quality_gsm_signal' => {
+                                    'unit' => 'NA',
+                                    'signal' => 15
+                                  },
+          'datetime' => {
+                          'hour' => '20',
+                          'unit' => 'UTC',
+                          'minute' => '10',
+                          'second' => '50',
+                          'month' => '04',
+                          'day' => '24',
+                          'year' => '2008'
+                        },
+          'direction' => {
+                           'direction' => 56,
+                           'unit' => 'm'
+                         },
+          'powersupply_voltage' => {
+                                     'voltage' => '14.6435',
+                                     'unit' => 'V'
+                                   },
+          'gps_coord' => {
+                           'unit' => 'UNKNOWN',
+                           'longitude' => '4.8145',
+                           'latitude' => '50.96022',
+                           'gps' => 1
+                         },
+          'speed' => {
+                       'unit' => 'km/u',
+                       'speed' => 119
+                     },
+          'status_inputs_1' => {
+                                 'unit' => 'NA',
+                                 'input1' => 0,
+                                 'input3' => 0,
+                                 'input2' => 0,
+                                 'input4' => 0
+                               },
+          'battery_voltage' => {
+                                 'voltage' => '4.1372',
+                                 'unit' => 'V'
+                               },
+          'altitude' => {
+                          'unit' => 'm',
+                          'height' => 55
+                        }
+        };
+
+------- PARSE NEW PACKET -------
+$VAR1 = {
+          '_info' => {
+                       'packet' => '19CAE6B102D729148D052A4000480449FFEC4A004C00037E61700F7133353935323130303030303839358800008903A890009800',
+                       'trusted' => 1
+                     },
+          'imei' => {
+                      'unit' => 'NA',
+                      'number' => '35952100000895'
+                    },
+          'status_outputs' => {
+                                'unit' => 'NA',
+                                'output2' => 0,
+                                'output1' => 0
+                              },
+          'distance' => {
+                          'unit' => 'm',
+                          'distance' => 228961
+                        },
+          'satellites' => {
+                            'unit' => 'number of satellites',
+                            'satellites' => 4
+                          },
+          'gps_coord_stop' => {
+                                'unit' => 'UNKNOWN',
+                                'longitude' => '4.83796',
+                                'latitude' => '51.00756',
+                                'gps' => 1
+                              },
+          'quality_gsm_signal' => {
+                                    'unit' => 'NA',
+                                    'signal' => 15
+                                  },
+          'datetime' => {
+                          'hour' => '20',
+                          'unit' => 'UTC',
+                          'minute' => '24',
+                          'second' => '10',
+                          'month' => '04',
+                          'day' => '24',
+                          'year' => '2008'
+                        },
+          'direction' => {
+                           'direction' => 0,
+                           'unit' => 'm'
+                         },
+          'powersupply_voltage' => {
+                                     'voltage' => '0.0000',
+                                     'unit' => 'V'
+                                   },
+          'speed' => {
+                       'unit' => 'km/u',
+                       'speed' => 0
+                     },
+          'status_inputs_1' => {
+                                 'unit' => 'NA',
+                                 'input1' => 0,
+                                 'input3' => 0,
+                                 'input2' => 0,
+                                 'input4' => 0
+                               },
+          'battery_voltage' => {
+                                 'voltage' => '4.0129',
+                                 'unit' => 'V'
+                               },
+          'altitude' => {
+                          'unit' => 'm',
+                          'height' => -19
+                        }
+        };
+

@@ -1,0 +1,6 @@
+Revision history for Perl extension TrackerProtocol.
+
+0.01  Sun Apr 27 13:56:31 2008
+	- original version; created by h2xs 1.23 with options
+		-AX -n TrackerProtocol
+
